@@ -1,0 +1,824 @@
+{
+  "Color": {
+    "Red": [
+      "aggression",
+      "blood",
+      "danger",
+      "daring",
+      "desire",
+      "emotion",
+      "energy",
+      "excitement",
+      "fire",
+      "heat",
+      "immorality",
+      "love",
+      "passion",
+      "sin",
+      "violence",
+      "war"
+    ],
+    "Black": [
+      "anger",
+      "anonymity",
+      "darkness",
+      "death",
+      "depth",
+      "elegance",
+      "evil",
+      "fear",
+      "formality",
+      "mourning",
+      "mystery",
+      "passivity",
+      "power",
+      "remorse",
+      "sadness",
+      "sexuality",
+      "sophistication",
+      "style",
+      "underground",
+      "unhappiness",
+      "unknown",
+      "wealth"
+    ],
+    "White": [
+      "cleanliness",
+      "clinical",
+      "cold",
+      "cowardice",
+      "death",
+      "forgiveness",
+      "godliness",
+      "heat",
+      "humility",
+      "ice",
+      "innocence",
+      "light",
+      "marriage",
+      "peace",
+      "precision",
+      "purity",
+      "reverence",
+      "simplicity",
+      "snow",
+      "spirituality",
+      "sterility",
+      "surrender",
+      "winter"
+    ],
+    "Green": [
+      "environment",
+      "envy",
+      "fertility",
+      "generosity",
+      "healthy",
+      "hope",
+      "inexperience",
+      "innocence",
+      "jealousy",
+      "nature",
+      "life",
+      "renewal",
+      "spring",
+      "vigor",
+      "youth"
+    ],
+    "Yellow": [
+      "betrayal",
+      "caution",
+      "covetousness",
+      "cowardice",
+      "decay",
+      "deceit",
+      "decrepitude",
+      "dishonesty",
+      "gold",
+      "happiness",
+      "hazard",
+      "hope",
+      "idealism",
+      "illness",
+      "imagination",
+      "jealousy",
+      "joy",
+      "old",
+      "optimism",
+      "philosophy",
+      "summer",
+      "sun",
+      "sunshine",
+      "violence",
+      "warmth"
+    ],
+    "Blue": [
+      "calm",
+      "cleanliness",
+      "coldness",
+      "confidence",
+      "conservatism",
+      "coolness",
+      "depression",
+      "eternity",
+      "harmony",
+      "loyalty",
+      "order",
+      "peace",
+      "sadness",
+      "security",
+      "serenity",
+      "sky",
+      "stability",
+      "technology",
+      "tranquility",
+      "trust",
+      "truth",
+      "unity",
+      "water"
+    ],
+    "Pink": [
+      "femininity",
+      "flesh",
+      "innocence",
+      "softness"
+    ],
+    "Purple": [
+      "arrogance",
+      "ceremony",
+      "cruelty",
+      "enlightenment",
+      "mourning",
+      "mysterious",
+      "nobility",
+      "privilege",
+      "royalty",
+      "spirituality",
+      "transformation",
+      "wealth",
+      "wisdom"
+    ],
+    "Brown": [
+      "comfort",
+      "earth",
+      "endurance",
+      "hearth",
+      "home",
+      "humility",
+      "outdoors",
+      "poverty",
+      "reliability",
+      "simplicity",
+      "soil",
+      "stability"
+    ],
+    "Orange": [
+      "balance",
+      "brightness",
+      "attention",
+      "energy",
+      "enthusiasm",
+      "expansive",
+      "fire",
+      "flamboyant",
+      "heat",
+      "joy",
+      "sun",
+      "vibrant",
+      "warmth"
+    ],
+    "Gold": [
+      "dominion",
+      "money",
+      "power",
+      "rarity",
+      "riches",
+      "sacredness",
+      "sovereignty",
+      "wealth"
+    ],
+    "Grey": [
+      "boring",
+      "conservative",
+      "dignity",
+      "intelligence",
+      "maturity",
+      "modesty",
+      "mystery",
+      "old",
+      "practical",
+      "reliability",
+      "sadness",
+      "security",
+      "solid",
+      "staid",
+      "uncertainty"
+    ]
+  },
+  "Nature": {
+    "Spring": [
+      "beginning",
+      "birth",
+      "growth",
+      "hope",
+      "life",
+      "sowing",
+      "youth"
+    ],
+    "Summer": [
+      "color",
+      "growing",
+      "ease",
+      "fullness",
+      "joy",
+      "knowledge",
+      "maturity",
+      "sun",
+      "warmth"
+    ],
+    "Autumn": [
+      "harvest",
+      "old",
+      "maturity",
+      "mellowness",
+      "moribund",
+      "expiring",
+      "fading",
+      "ploughing",
+      "reaping",
+      "ripeness",
+      "sadness"
+    ],
+    "Winter": [
+      "cold",
+      "colorless",
+      "death",
+      "despair",
+      "emptiness",
+      "hibernation",
+      "loneliness",
+      "old",
+      "resting",
+      "sleep",
+      "stagnation",
+      "end"
+    ],
+    "Christmas season": [
+      "birth"
+    ],
+    "Easter season": [
+      "enlightenment",
+      "rebirth"
+    ],
+    "Dawn": [
+      "hope",
+      "illumination"
+    ],
+    "Light": [
+      "clarity",
+      "freedom",
+      "good",
+      "hope",
+      "knowledge",
+      "safety",
+      "sanity",
+      "truth",
+      "warmth"
+    ],
+    "Day": [
+      "clarity",
+      "hope",
+      "sanity"
+    ],
+    "Darkness": [
+      "danger",
+      "despair",
+      "evil",
+      "ignorance",
+      "madness",
+      "magic",
+      "unknown"
+    ],
+    "Night": [
+      "darkness",
+      "death",
+      "despair",
+      "emptiness",
+      "fear",
+      "grief",
+      "isolation",
+      "loneliness",
+      "madness",
+      "unknown"
+    ],
+    "Morning": [
+      "promise",
+      "purity"
+    ],
+    "Sunrise": [
+      "beginning"
+    ],
+    "Sunset": [
+      "ending"
+    ],
+    "Water": [
+      "cleansing",
+      "life",
+      "purification"
+    ],
+    "Moon": [
+      "changing",
+      "femininity",
+      "madness",
+      "resurrection"
+    ],
+    "Sun": [
+      "heat",
+      "life",
+      "masculinity",
+      "light"
+    ]
+  },
+  "Plants": {
+    "Weeds": [
+      "evil",
+      "wildness",
+      "outcast"
+    ],
+    "Flowers": [
+      "beauty",
+      "gentleness",
+      "strength",
+      "youth"
+    ],
+    "Rose": [
+      "beauty",
+      "fragility",
+      "love",
+      "optimism",
+      "potential",
+      "romance",
+      "secrecy"
+    ],
+    "Lily": [
+      "purity",
+      "temptation",
+      "passion"
+    ],
+    "Anemone": [
+      "transience"
+    ],
+    "Chrysanthemums": [
+      "autumn",
+      "perfection",
+      "solar"
+    ],
+    "Sunflower": [
+      "sturdiness"
+    ],
+    "Violet": [
+      "petite",
+      "shyness"
+    ],
+    "Four leaf clover": [
+      "luck"
+    ],
+    "Evergreen tree": [
+      "immortality"
+    ],
+    "Tree": [
+      "family",
+      "life",
+      "nature",
+      "origins"
+    ],
+    "Apple": [
+      "Eve",
+      "sin",
+      "temptation"
+    ],
+    "Chestnut": [
+      "foresight"
+    ],
+    "Oak": [
+      "strength",
+      "wisdom"
+    ],
+    "Pear": [
+      "blossoming",
+      "fleeting"
+    ],
+    "Poplar": [
+      "funeral",
+      "grief",
+      "pain",
+      "sacrifice",
+      "underworld"
+    ],
+    "Sycamore": [
+      "vanity"
+    ],
+    "Pine": [
+      "immortality"
+    ]
+  },
+  "Weather": {
+    "Fog": [
+      "confusion",
+      "isolation",
+      "mystery",
+      "obscurity",
+      "uncertainty"
+    ],
+    "Mist": [
+      "confusion",
+      "isolation",
+      "mystery",
+      "obscurity",
+      "uncertainty"
+    ],
+    "Rain": [
+      "despair",
+      "sadness"
+    ],
+    "Wind": [
+      "violence"
+    ],
+    "Storm": [
+      "violence"
+    ],
+    "Lightning": [
+      "power",
+      "strength"
+    ],
+    "Rainbows": [
+      "heaven",
+      "fortune",
+      "luck",
+      "hope",
+      "reward"
+    ],
+    "Thunder": [
+      "punishment",
+      "wrath"
+    ],
+    "Snow": [
+      "cold",
+      "harshness",
+      "purity"
+    ]
+  },
+  "Animal": {
+    "Dove": [
+      "forgiveness",
+      "beginning",
+      "peace",
+      "purity",
+      "simplicity"
+    ],
+    "Fox": [
+      "cleverness",
+      "slyness"
+    ],
+    "Raven": [
+      "death",
+      "destruction",
+      "doom"
+    ],
+    "Lion": [
+      "authority",
+      "power",
+      "pride",
+      "strength"
+    ],
+    "Peacock": [
+      "pride",
+      "vanity"
+    ],
+    "Mouse": [
+      "meekness",
+      "shyness"
+    ],
+    "Hawk": [
+      "keen",
+      "sharp"
+    ],
+    "Owl": [
+      "death",
+      "knowledge",
+      "wisdom"
+    ],
+    "Cats": [
+      "cunning",
+      "forethought",
+      "ingenuity"
+    ],
+    "Lamb": [
+      "Christ",
+      "innocence",
+      "sacrifice"
+    ],
+    "Eagle": [
+      "freedom"
+    ],
+    "Donkey": [
+      "humility",
+      "patience",
+      "stupidity"
+    ],
+    "Buzzard": [
+      "death"
+    ],
+    "Vulture": [
+      "death"
+    ],
+    "Serpent": [
+      "deceit",
+      "deception",
+      "devil",
+      "evil",
+      "temptation"
+    ],
+    "Snake": [
+      "deceit",
+      "deception",
+      "devil",
+      "evil",
+      "temptation"
+    ],
+    "Salmon": [
+      "instinct",
+      "wisdom"
+    ],
+    "Cuckoo": [
+      "jealousy",
+      "laziness",
+      "parasitism"
+    ],
+    "horse": [
+      "sexuality",
+      "phallus"
+    ]
+  },
+  "Setting": {
+    "Forest": [
+      "evil",
+      "mystery"
+    ],
+    "Desert": [
+      "alienation",
+      "isolation",
+      "loneliness"
+    ],
+    "Garden": [
+      "paradise"
+    ],
+    "Window": [
+      "freedom",
+      "lack"
+    ],
+    "Door": [
+      "entry",
+      "exclusion",
+      "opportunity"
+    ],
+    "Gate": [
+      "entry",
+      "exclusion"
+    ],
+    "Park": [
+      "renewal",
+      "retreat"
+    ],
+    "Farm": [
+      "nature",
+      "productivity"
+    ],
+    "Junction": [
+      "option",
+      "choice"
+    ],
+    "Mountain": [
+      "challenge",
+      "hardship",
+      "obstacle",
+      "pride",
+      "safety",
+      "stability"
+    ],
+    "Road": [
+      "journey",
+      "passage"
+    ],
+    "River": [
+      "fluidity",
+      "stream"
+    ],
+    "Cavern": [
+      "womb"
+    ],
+    "Wall": [
+      "barrier"
+    ]
+  },
+  "Object": {
+    "Skull": [
+      "death"
+    ],
+    "Crown": [
+      "monarchy",
+      "power",
+      "sovereignty",
+      "wealth"
+    ],
+    "Ring": [
+      "belonging",
+      "cyclical",
+      "eternity",
+      "exclusivity",
+      "faithfulness",
+      "fidelity",
+      "commitment"
+    ],
+    "Axe": [
+      "battle",
+      "work"
+    ],
+    "Belt": [
+      "chastity",
+      "protection"
+    ],
+    "Candle": [
+      "light"
+    ],
+    "Circle": [
+      "perfection",
+      "wholeness"
+    ],
+    "Fire": [
+      "Hell",
+      "death",
+      "domesticity",
+      "pain",
+      "warmth"
+    ],
+    "Hearth": [
+      "domesticity",
+      "warmth"
+    ],
+    "Pearl": [
+      "incorruptibility",
+      "knowledge",
+      "wealth"
+    ],
+    "Sword": [
+      "protection",
+      "strength"
+    ],
+    "Book": [
+      "education",
+      "knowledge"
+    ],
+    "Chain": [
+      "bondage",
+      "interdependence",
+      "restriction",
+      "suffering"
+    ],
+    "Clock": [
+      "time"
+    ],
+    "Calendar": [
+      "time"
+    ],
+    "Throne": [
+      "authority",
+      "sovereignty"
+    ],
+    "Rubies": [
+      "fortune"
+    ],
+    "Sapphires": [
+      "contemplation",
+      "purity"
+    ],
+    "Silver": [
+      "femininity",
+      "moon",
+      "water"
+    ],
+    "Ladder": [
+      "ascension",
+      "connection",
+      "intercommunication"
+    ],
+    "Broken mirror": [
+      "destruction",
+      "separation"
+    ],
+    "Trophy": [
+      "victory"
+    ]
+  },
+  "Action": {
+    "Kiss": [
+      "fellowship",
+      "friendship",
+      "intimacy"
+    ],
+    "Journey": [
+      "adventure",
+      "life",
+      "fate"
+    ],
+    "Sleep": [
+      "death"
+    ]
+  },
+  "Number": {
+    "Zero": [
+      "mystery",
+      "nothingness"
+    ],
+    "Three": [
+      "trinity",
+      "fulfillment",
+      "tripartite"
+    ],
+    "Five": [
+      "perfection"
+    ],
+    "Seven": [
+      "creation",
+      "abundance",
+      "totality"
+    ],
+    "Ten": [
+      "commandment"
+    ],
+    "Twelve": [
+      "fulfillment"
+    ],
+    "Forty": [
+      "penance",
+      "purification"
+    ]
+  },
+  "Christian": {
+    "Angel": [
+      "messenger",
+      "purity"
+    ],
+    "Bread": [
+      "forgiveness",
+      "life",
+      "sacrifice"
+    ],
+    "Clay": [
+      "fallibility",
+      "humanity"
+    ],
+    "Cross": [
+      "crucifixion",
+      "death",
+      "resurrection",
+      "sacrifice"
+    ],
+    "Fig leaf": [
+      "shame"
+    ],
+    "Thorn": [
+      "pain",
+      "suffering"
+    ],
+    "Wine": [
+      "blood",
+      "death",
+      "forgiveness",
+      "sacrifice",
+      "suffering"
+    ]
+  },
+  "Directions": {
+    "East": [
+      "feasting",
+      "love",
+      "renewal",
+      "song",
+      "youth"
+    ],
+    "North": [
+      "alienation",
+      "coldness",
+      "death",
+      "hostility"
+    ],
+    "South": [
+      "comfort",
+      "warmth"
+    ],
+    "West": [
+      "descending",
+      "old"
+    ]
+  }
+}

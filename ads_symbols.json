@@ -1,0 +1,889 @@
+{
+  "lime": [
+    "refreshing"
+  ],
+  "milk": [
+    "healthy",
+    "refreshing"
+  ],
+  "bottle": [
+    "alcohol",
+    "fitness",
+    "art",
+    "environment",
+    "energy",
+    "refreshing",
+    "excitement"
+  ],
+  "orange": [
+    "refreshing"
+  ],
+  "igloo": [
+    "refreshing"
+  ],
+  "beer": [
+    "fun",
+    "alcohol",
+    "refreshing"
+  ],
+  "pool": [
+    "refreshing",
+    "vacation"
+  ],
+  "gum": [
+    "refreshing"
+  ],
+  "meals": [
+    "health"
+  ],
+  "treadmill": [
+    "health"
+  ],
+  "heart": [
+    "love",
+    "health"
+  ],
+  "finger": [
+    "health"
+  ],
+  "fingerprint": [
+    "health"
+  ],
+  "letter": [
+    "health"
+  ],
+  "banana": [
+    "humor",
+    "health"
+  ],
+  "chicken": [
+    "food",
+    "humor",
+    "health"
+  ],
+  "tooth": [
+    "health"
+  ],
+  "toes": [
+    "comfort"
+  ],
+  "sofa": [
+    "comfort"
+  ],
+  "shirt": [
+    "comfort",
+    "class",
+    "sex"
+  ],
+  "stocking": [
+    "comfort"
+  ],
+  "pillow": [
+    "comfort"
+  ],
+  "cotton": [
+    "comfort"
+  ],
+  "house": [
+    "comfort"
+  ],
+  "alcohol": [
+    "comfort"
+  ],
+  "mountain": [
+    "adventure",
+    "travel"
+  ],
+  "bicycle": [
+    "adventure",
+    "fitness"
+  ],
+  "cave": [
+    "adventure"
+  ],
+  "cannon": [
+    "adventure"
+  ],
+  "dragon": [
+    "adventure"
+  ],
+  "waterfall": [
+    "adventure"
+  ],
+  "pencil": [
+    "danger"
+  ],
+  "road": [
+    "danger"
+  ],
+  "chimney": [
+    "danger"
+  ],
+  "gun": [
+    "danger",
+    "death"
+  ],
+  "axe": [
+    "danger"
+  ],
+  "breaking": [
+    "danger"
+  ],
+  "hanging": [
+    "death"
+  ],
+  "tombstone": [
+    "death"
+  ],
+  "cigarette": [
+    "death",
+    "violence",
+    "smoking"
+  ],
+  "shark": [
+    "death"
+  ],
+  "war": [
+    "death"
+  ],
+  "blood": [
+    "death",
+    "cruelty"
+  ],
+  "car": [
+    "strong",
+    "safety",
+    "fun",
+    "speed",
+    "fashion",
+    "power",
+    "class",
+    "freedom",
+    "travel"
+  ],
+  "rabbit": [
+    "speed",
+    "natural"
+  ],
+  "runner": [
+    "speed"
+  ],
+  "motorcycle": [
+    "speed"
+  ],
+  "bag": [
+    "travel",
+    "strength"
+  ],
+  "foam": [
+    "travel"
+  ],
+  "wing": [
+    "energy",
+    "travel"
+  ],
+  "knife": [
+    "travel"
+  ],
+  "pole": [
+    "travel"
+  ],
+  "naked": [
+    "desire",
+    "natural"
+  ],
+  "wheat": [
+    "natural"
+  ],
+  "tree": [
+    "environment",
+    "natural",
+    "nature"
+  ],
+  "plant": [
+    "environment",
+    "natural"
+  ],
+  "flower": [
+    "natural",
+    "nature"
+  ],
+  "leaf": [
+    "environment",
+    "natural"
+  ],
+  "deer": [
+    "natural"
+  ],
+  "woman": [
+    "beauty",
+    "desire",
+    "natural",
+    "happy",
+    "sex"
+  ],
+  "selfie": [
+    "love"
+  ],
+  "hugging": [
+    "love"
+  ],
+  "kissing": [
+    "love"
+  ],
+  "chocolate": [
+    "love",
+    "humor"
+  ],
+  "giraffe": [
+    "love"
+  ],
+  "plate": [
+    "love"
+  ],
+  "rose": [
+    "love"
+  ],
+  "looking": [
+    "love"
+  ],
+  "tiger": [
+    "nature"
+  ],
+  "dirt": [
+    "nature"
+  ],
+  "grass": [
+    "nature"
+  ],
+  "bee": [
+    "nature"
+  ],
+  "animal": [
+    "nature"
+  ],
+  "zebra": [
+    "nature"
+  ],
+  "ornaments": [
+    "christmas"
+  ],
+  "truck": [
+    "fun",
+    "strength"
+  ],
+  "coke": [
+    "fun"
+  ],
+  "pepsi": [
+    "fun"
+  ],
+  "ketchup": [
+    "fun",
+    "food"
+  ],
+  "maze": [
+    "fun"
+  ],
+  "vodka": [
+    "fun"
+  ],
+  "burger": [
+    "food"
+  ],
+  "hotdog": [
+    "food"
+  ],
+  "mouth": [
+    "food",
+    "desire",
+    "excitement"
+  ],
+  "strawberry": [
+    "food"
+  ],
+  "bowl": [
+    "food"
+  ],
+  "penguin": [
+    "environment"
+  ],
+  "cloud": [
+    "environment"
+  ],
+  "paint": [
+    "environment"
+  ],
+  "chocked": [
+    "smoking"
+  ],
+  "man": [
+    "smoking",
+    "desire",
+    "humor",
+    "excitement",
+    "sex"
+  ],
+  "person": [
+    "fitness",
+    "strong",
+    "smoking"
+  ],
+  "bedsheet": [
+    "sex"
+  ],
+  "people": [
+    "art",
+    "party",
+    "sex"
+  ],
+  "girl": [
+    "fashion",
+    "energy",
+    "entertainment",
+    "excitement",
+    "sex"
+  ],
+  "steak": [
+    "delicious",
+    "strength"
+  ],
+  "wrist": [
+    "strength"
+  ],
+  "lion": [
+    "strength"
+  ],
+  "barbell": [
+    "strength"
+  ],
+  "boy": [
+    "energy",
+    "strength"
+  ],
+  "hole": [
+    "strength"
+  ],
+  "teeth": [
+    "strength"
+  ],
+  "scratch": [
+    "strong"
+  ],
+  "shoe": [
+    "protection",
+    "strong"
+  ],
+  "laptop": [
+    "strong"
+  ],
+  "saucepan": [
+    "strong"
+  ],
+  "superman": [
+    "strong"
+  ],
+  "bear": [
+    "strong"
+  ],
+  "horse": [
+    "strong",
+    "power"
+  ],
+  "cow": [
+    "strong",
+    "humor"
+  ],
+  "vegetables": [
+    "healthy"
+  ],
+  "pun": [
+    "healthy"
+  ],
+  "fruit": [
+    "healthy"
+  ],
+  "baby": [
+    "youth",
+    "healthy"
+  ],
+  "yogurt": [
+    "healthy"
+  ],
+  "salad": [
+    "healthy"
+  ],
+  "tomato": [
+    "healthy"
+  ],
+  "cheek": [
+    "humor"
+  ],
+  "eyes": [
+    "humor"
+  ],
+  "face": [
+    "violence",
+    "clean",
+    "humor"
+  ],
+  "carrying": [
+    "energy"
+  ],
+  "switch": [
+    "energy"
+  ],
+  "jumping": [
+    "power",
+    "energy"
+  ],
+  "wire": [
+    "energy"
+  ],
+  "beast": [
+    "energy"
+  ],
+  "abs": [
+    "fitness"
+  ],
+  "gymnastics": [
+    "fitness"
+  ],
+  "ball": [
+    "power",
+    "fitness"
+  ],
+  "torso": [
+    "fitness"
+  ],
+  "dancing": [
+    "fashion",
+    "excitement"
+  ],
+  "dress": [
+    "fashion",
+    "beauty"
+  ],
+  "white": [
+    "fashion",
+    "clean"
+  ],
+  "watch": [
+    "fashion"
+  ],
+  "bench": [
+    "entertainment"
+  ],
+  "racket": [
+    "entertainment"
+  ],
+  "race": [
+    "entertainment"
+  ],
+  "singing": [
+    "entertainment"
+  ],
+  "CDs": [
+    "entertainment"
+  ],
+  "cartoon": [
+    "entertainment"
+  ],
+  "bucket": [
+    "art"
+  ],
+  "statue": [
+    "art",
+    "beauty"
+  ],
+  "painting": [
+    "art",
+    "freedom"
+  ],
+  "illusion": [
+    "art"
+  ],
+  "sauce": [
+    "art"
+  ],
+  "cookie": [
+    "art"
+  ],
+  "mask": [
+    "freedom"
+  ],
+  "wind": [
+    "freedom"
+  ],
+  "bird": [
+    "clean",
+    "freedom"
+  ],
+  "pasture": [
+    "freedom"
+  ],
+  "map": [
+    "technology",
+    "freedom"
+  ],
+  "butterfly": [
+    "freedom"
+  ],
+  "hallway": [
+    "freedom"
+  ],
+  "bar": [
+    "party"
+  ],
+  "cocktail": [
+    "party",
+    "relaxation"
+  ],
+  "cheering": [
+    "party"
+  ],
+  "mannequin": [
+    "party"
+  ],
+  "spotlight": [
+    "party"
+  ],
+  "cheer": [
+    "party"
+  ],
+  "food": [
+    "party",
+    "sports"
+  ],
+  "fireworks": [
+    "party"
+  ],
+  "injured": [
+    "violence",
+    "cruelty",
+    "safety"
+  ],
+  "injury": [
+    "violence"
+  ],
+  "engine": [
+    "power"
+  ],
+  "Hitler": [
+    "power"
+  ],
+  "elf": [
+    "power"
+  ],
+  "galloping": [
+    "power"
+  ],
+  "button": [
+    "power"
+  ],
+  "steam": [
+    "hot"
+  ],
+  "caveman": [
+    "hot"
+  ],
+  "explosion": [
+    "hot"
+  ],
+  "melting": [
+    "hot"
+  ],
+  "footprint": [
+    "hot"
+  ],
+  "melted": [
+    "hot"
+  ],
+  "flame": [
+    "hot"
+  ],
+  "text": [
+    "delicious"
+  ],
+  "ice-cream": [
+    "delicious"
+  ],
+  "pizza": [
+    "delicious"
+  ],
+  "licking": [
+    "sexy",
+    "delicious"
+  ],
+  "candy": [
+    "delicious"
+  ],
+  "beach": [
+    "relaxation",
+    "vacation"
+  ],
+  "sun-tanning": [
+    "relaxation"
+  ],
+  "smiling": [
+    "happy",
+    "relaxation",
+    "happiness"
+  ],
+  "stone": [
+    "relaxation"
+  ],
+  "helmet": [
+    "protection",
+    "safety"
+  ],
+  "pouring": [
+    "protection"
+  ],
+  "meat": [
+    "protection"
+  ],
+  "wrapper": [
+    "protection"
+  ],
+  "bank": [
+    "protection"
+  ],
+  "missile": [
+    "protection"
+  ],
+  "rock": [
+    "protection"
+  ],
+  "condom": [
+    "protection"
+  ],
+  "screen": [
+    "technology"
+  ],
+  "measurement": [
+    "technology"
+  ],
+  "robot": [
+    "technology"
+  ],
+  "ATM": [
+    "technology"
+  ],
+  "camera": [
+    "technology"
+  ],
+  "hand": [
+    "technology"
+  ],
+  "eyelashes": [
+    "beauty"
+  ],
+  "lipstick": [
+    "beauty"
+  ],
+  "makeup": [
+    "beauty"
+  ],
+  "basketball": [
+    "sports"
+  ],
+  "ping-pong": [
+    "sports"
+  ],
+  "football": [
+    "sports"
+  ],
+  "smile": [
+    "happiness"
+  ],
+  "cupcake": [
+    "happiness"
+  ],
+  "lighthouse": [
+    "alcohol"
+  ],
+  "cup": [
+    "alcohol",
+    "safety"
+  ],
+  "revealing": [
+    "sexy"
+  ],
+  "nude": [
+    "sexy"
+  ],
+  "underwear": [
+    "sexy"
+  ],
+  "hamburger": [
+    "sexy"
+  ],
+  "skinned": [
+    "cruelty"
+  ],
+  "skinning": [
+    "cruelty"
+  ],
+  "tattoo": [
+    "cruelty"
+  ],
+  "ox": [
+    "cruelty"
+  ],
+  "dog": [
+    "cruelty"
+  ],
+  "tied": [
+    "cruelty"
+  ],
+  "plenty": [
+    "variety"
+  ],
+  "bunch": [
+    "variety"
+  ],
+  "choices": [
+    "variety"
+  ],
+  "two": [
+    "variety"
+  ],
+  "different": [
+    "variety"
+  ],
+  "BMW": [
+    "excitement"
+  ],
+  "leg": [
+    "youth",
+    "excitement"
+  ],
+  "ski": [
+    "excitement"
+  ],
+  "dancer": [
+    "excitement"
+  ],
+  "wet": [
+    "excitement"
+  ],
+  "eye": [
+    "safety"
+  ],
+  "police": [
+    "safety"
+  ],
+  "crossing": [
+    "safety"
+  ],
+  "stored": [
+    "safety"
+  ],
+  "hook": [
+    "safety"
+  ],
+  "eyepatch": [
+    "injury"
+  ],
+  "wound": [
+    "injury"
+  ],
+  "head": [
+    "injury"
+  ],
+  "scar": [
+    "injury"
+  ],
+  "saw": [
+    "injury"
+  ],
+  "ax": [
+    "injury"
+  ],
+  "wheelchair": [
+    "injury"
+  ],
+  "couple": [
+    "desire",
+    "family"
+  ],
+  "pack": [
+    "desire"
+  ],
+  "wave": [
+    "desire"
+  ],
+  "screaming": [
+    "desire"
+  ],
+  "potato": [
+    "hunger"
+  ],
+  "pepperoni": [
+    "hunger"
+  ],
+  "yawning": [
+    "hunger"
+  ],
+  "sandwich": [
+    "hunger"
+  ],
+  "beans": [
+    "hunger"
+  ],
+  "eating": [
+    "hunger"
+  ],
+  "boat": [
+    "vacation"
+  ],
+  "trunk": [
+    "vacation"
+  ],
+  "sand": [
+    "vacation"
+  ],
+  "destination": [
+    "vacation"
+  ],
+  "island": [
+    "vacation"
+  ],
+  "picture": [
+    "vacation"
+  ],
+  "young": [
+    "youth"
+  ],
+  "child": [
+    "youth"
+  ],
+  "note": [
+    "youth"
+  ],
+  "decorate": [
+    "happy"
+  ],
+  "suit": [
+    "class"
+  ],
+  "glass": [
+    "class"
+  ],
+  "clock": [
+    "class"
+  ],
+  "mug": [
+    "class"
+  ],
+  "dirty": [
+    "clean"
+  ],
+  "pure": [
+    "clean"
+  ],
+  "kid": [
+    "family"
+  ]
+}

@@ -1,0 +1,6362 @@
+{
+  "1/139251.jpg": {
+    "region": [
+      82.0,
+      120.0,
+      418.0,
+      291.0
+    ],
+    "label": "refreshing",
+    "description": "Lime wedges",
+    "signifier": "lime",
+    "relation_type": "others"
+  },
+  "3/97803.jpg": {
+    "region": [
+      338.0,
+      24.0,
+      35.0,
+      469.0
+    ],
+    "label": "refreshing",
+    "description": "A splash of milk",
+    "signifier": "milk",
+    "relation_type": "indirect"
+  },
+  "2/10402.jpg": {
+    "region": [
+      408.0,
+      66.0,
+      88.0,
+      359.0
+    ],
+    "label": "refreshing",
+    "description": "A bottle with splashes of liquid around it",
+    "signifier": "bottle",
+    "relation_type": "indirect"
+  },
+  "5/107075.jpg": {
+    "region": [
+      38.0,
+      73.0,
+      371.0,
+      363.0
+    ],
+    "label": "refreshing",
+    "description": "Lips that look like orange slices",
+    "signifier": "orange",
+    "relation_type": "others"
+  },
+  "3/93973.jpg": {
+    "region": [
+      68.0,
+      73.0,
+      461.0,
+      364.0
+    ],
+    "label": "refreshing",
+    "description": "A coffee mug shaped like an igloo",
+    "signifier": "igloo",
+    "relation_type": "others"
+  },
+  "10/170549.png": {
+    "region": [
+      5.0,
+      37.0,
+      381.0,
+      378.0
+    ],
+    "label": "refreshing",
+    "description": "Beer splashing out a bottle",
+    "signifier": "beer",
+    "relation_type": "others"
+  },
+  "10/170117.png": {
+    "region": [
+      15.0,
+      185.0,
+      491.0,
+      487.0
+    ],
+    "label": "refreshing",
+    "description": "Oreo cookie floating in a pool of milk",
+    "signifier": "pool",
+    "relation_type": "HasProperty"
+  },
+  "10/176483.png": {
+    "region": [
+      128.0,
+      13.0,
+      263.0,
+      132.0
+    ],
+    "label": "refreshing",
+    "description": "A giant piece of gum",
+    "signifier": "gum",
+    "relation_type": "others"
+  },
+  "3/25313.jpg": {
+    "region": [
+      221.0,
+      278.0,
+      500.0,
+      122.0
+    ],
+    "label": "refreshing",
+    "description": "Coffee bean shaped like an ocean wave",
+    "signifier": "ocean wave",
+    "relation_type": "others"
+  },
+  "10/177740.png": {
+    "region": [
+      41.0,
+      320.0,
+      149.0,
+      463.0
+    ],
+    "label": "refreshing",
+    "description": "Beer and lime",
+    "signifier": "lime",
+    "relation_type": "others"
+  },
+  "8/164768.jpg": {
+    "region": [
+      23.0,
+      17.0,
+      449.0,
+      451.0
+    ],
+    "label": "health",
+    "description": "Lots of banners about meals",
+    "signifier": "meals",
+    "relation_type": "others"
+  },
+  "10/171658.png": {
+    "region": [
+      4.0,
+      28.0,
+      479.0,
+      191.0
+    ],
+    "label": "health",
+    "description": "Electrocardiography ",
+    "signifier": "electrocardiography",
+    "relation_type": "UsedFor"
+  },
+  "0/67540.jpg": {
+    "region": [
+      428.0,
+      474.0,
+      71.0,
+      132.0
+    ],
+    "label": "health",
+    "description": "Cartoon candy running on a treadmill ",
+    "signifier": "treadmill",
+    "relation_type": "UsedFor"
+  },
+  "10/175112.png": {
+    "region": [
+      263.0,
+      47.0,
+      447.0,
+      397.0
+    ],
+    "label": "health",
+    "description": "A heart made of porcelain ",
+    "signifier": "heart",
+    "relation_type": "RelatedTo"
+  },
+  "2/95652.jpg": {
+    "region": [
+      69.0,
+      124.0,
+      419.0,
+      457.0
+    ],
+    "label": "health",
+    "description": "An index finger holding up a cracker and dip",
+    "signifier": "finger",
+    "relation_type": "indirect"
+  },
+  "8/70848.jpg": {
+    "region": [
+      182.0,
+      105.0,
+      360.0,
+      287.0
+    ],
+    "label": "health",
+    "description": "Finger print and a QR code",
+    "signifier": "fingerprint",
+    "relation_type": "indirect"
+  },
+  "8/70498.jpg": {
+    "region": [
+      29.0,
+      14.0,
+      442.0,
+      429.0
+    ],
+    "label": "health",
+    "description": "A letter in a phone booth",
+    "signifier": "letter",
+    "relation_type": "indirect"
+  },
+  "4/54794.jpg": {
+    "region": [
+      33.0,
+      62.0,
+      437.0,
+      424.0
+    ],
+    "label": "health",
+    "description": "Banana peel all shredded up",
+    "signifier": "banana",
+    "relation_type": "others"
+  },
+  "5/81465.jpg": {
+    "region": [
+      135.0,
+      145.0,
+      361.0,
+      310.0
+    ],
+    "label": "health",
+    "description": "Two pieces of fried chicken made to look like burger buns",
+    "signifier": "chicken",
+    "relation_type": "indirect"
+  },
+  "10/176442.png": {
+    "region": [
+      131.0,
+      77.0,
+      416.0,
+      277.0
+    ],
+    "label": "health",
+    "description": "Cartoon tooth under a sun umbrella",
+    "signifier": "tooth",
+    "relation_type": "RelatedTo"
+  },
+  "4/18824.jpg": {
+    "region": [
+      304.0,
+      282.0,
+      370.0,
+      373.0
+    ],
+    "label": "comfort",
+    "description": "Toes painted into dark brown",
+    "signifier": "toes",
+    "relation_type": "indirect"
+  },
+  "3/159023.jpg": {
+    "region": [
+      51.0,
+      243.0,
+      408.0,
+      63.0
+    ],
+    "label": "comfort",
+    "description": "Workers sitting closely in a sofa",
+    "signifier": "sofa",
+    "relation_type": "HasProperty"
+  },
+  "0/155860.jpg": {
+    "region": [
+      435.0,
+      377.2998046875,
+      75.0,
+      165.2998046875
+    ],
+    "label": "comfort",
+    "description": "Many woman hands taking care of colorful shirt",
+    "signifier": "shirt",
+    "relation_type": "indirect"
+  },
+  "3/39613.jpg": {
+    "region": [
+      36.0,
+      86.0,
+      439.0,
+      334.0
+    ],
+    "label": "comfort",
+    "description": "A couple sun-bathing on beach chairs",
+    "signifier": "beach chair",
+    "relation_type": "HasProperty"
+  },
+  "6/87936.jpg": {
+    "region": [
+      363.0,
+      476.0,
+      147.0,
+      235.0
+    ],
+    "label": "comfort",
+    "description": "Luxury white stockings for noble people",
+    "signifier": "stocking",
+    "relation_type": "indirect"
+  },
+  "9/37669.jpg": {
+    "region": [
+      151.0,
+      192.0,
+      408.0,
+      403.0
+    ],
+    "label": "comfort",
+    "description": "Man lying on a spacious sofa bed for airlines",
+    "signifier": "sofa bed",
+    "relation_type": "HasProperty"
+  },
+  "7/5787.jpg": {
+    "region": [
+      162.0,
+      416.0,
+      487.0,
+      101.0
+    ],
+    "label": "comfort",
+    "description": "White pillow",
+    "signifier": "pillow",
+    "relation_type": "HasProperty"
+  },
+  "10/174161.png": {
+    "region": [
+      458.0,
+      24.0,
+      192.0,
+      419.0
+    ],
+    "label": "comfort",
+    "description": "Strange cotton doll on a bed",
+    "signifier": "cotton",
+    "relation_type": "UsedFor"
+  },
+  "7/34377.jpg": {
+    "region": [
+      156.0,
+      163.0,
+      416.0,
+      260.0
+    ],
+    "label": "comfort",
+    "description": "Warm lighted wooden houses in snowy night",
+    "signifier": "house",
+    "relation_type": "HasProperty"
+  },
+  "1/12681.jpg": {
+    "region": [
+      180.0,
+      264.0,
+      338.0,
+      437.0
+    ],
+    "label": "comfort",
+    "description": "Bottle of alcohol painted on the wall",
+    "signifier": "alcohol",
+    "relation_type": "indirect"
+  },
+  "0/1090.jpg": {
+    "region": [
+      151.0,
+      112.0,
+      365.0,
+      437.0
+    ],
+    "label": "adventure",
+    "description": "Wavy trail on snowy mountain",
+    "signifier": "mountain",
+    "relation_type": "RelatedTo"
+  },
+  "10/172360.png": {
+    "region": [
+      81.0,
+      180.0,
+      430.0,
+      417.0
+    ],
+    "label": "adventure",
+    "description": "A bridge tower",
+    "signifier": "bridge tower",
+    "relation_type": "indirect"
+  },
+  "10/173073.png": {
+    "region": [
+      17.0,
+      53.0,
+      124.0,
+      144.0
+    ],
+    "label": "adventure",
+    "description": "Man flying high riding a bicycle",
+    "signifier": "bicycle",
+    "relation_type": "UsedFor"
+  },
+  "0/109200.jpg": {
+    "region": [
+      21.0,
+      137.0,
+      485.0,
+      293.0
+    ],
+    "label": "adventure",
+    "description": "Rock-climbing in a dark cave",
+    "signifier": "cave",
+    "relation_type": "RelatedTo"
+  },
+  "3/57533.jpg": {
+    "region": [
+      91.0,
+      104.0,
+      423.0,
+      338.0
+    ],
+    "label": "adventure",
+    "description": "A cannon firing out baseballs",
+    "signifier": "cannon",
+    "relation_type": "indirect"
+  },
+  "4/103064.jpg": {
+    "region": [
+      406.0,
+      424.0,
+      62.0,
+      145.0
+    ],
+    "label": "adventure",
+    "description": "Giant human sculptures cut out of a mountain facade",
+    "signifier": "mountain",
+    "relation_type": "RelatedTo"
+  },
+  "10/170167.png": {
+    "region": [
+      236.0,
+      143.0,
+      426.0,
+      283.0
+    ],
+    "label": "adventure",
+    "description": "Man fight against a dragon with fire in its mouth",
+    "signifier": "dragon",
+    "relation_type": "RelatedTo"
+  },
+  "9/123819.jpg": {
+    "region": [
+      194.0,
+      169.0,
+      444.0,
+      394.0
+    ],
+    "label": "adventure",
+    "description": "A red bull can in outer space",
+    "signifier": "outer space",
+    "relation_type": "RelatedTo"
+  },
+  "5/79665.jpg": {
+    "region": [
+      69.0,
+      257.0,
+      420.0,
+      487.0
+    ],
+    "label": "adventure",
+    "description": "Great water fall and river",
+    "signifier": "waterfall",
+    "relation_type": "RelatedTo"
+  },
+  "0/76590.jpg": {
+    "region": [
+      203.0,
+      96.0,
+      500.0,
+      436.0
+    ],
+    "label": "adventure",
+    "description": "A jeep climbing rocky mountain",
+    "signifier": "mountain",
+    "relation_type": "RelatedTo"
+  },
+  "0/135280.jpg": {
+    "region": [
+      116.0,
+      64.0,
+      200.0,
+      299.0
+    ],
+    "label": "danger",
+    "description": "Peeled off woods from a pencil",
+    "signifier": "pencil",
+    "relation_type": "indirect"
+  },
+  "0/106570.jpg": {
+    "region": [
+      319.0,
+      24.0,
+      132.0,
+      318.0
+    ],
+    "label": "danger",
+    "description": "Wavy roads and messy items going high in air",
+    "signifier": "road",
+    "relation_type": "indirect"
+  },
+  "6/135116.jpg": {
+    "region": [
+      6.0,
+      61.0,
+      250.0,
+      482.0
+    ],
+    "label": "danger",
+    "description": "Cigarettes smoking like a chimney",
+    "signifier": "chimney",
+    "relation_type": "indirect"
+  },
+  "10/171573.png": {
+    "region": [
+      18.0,
+      41.0,
+      500.0,
+      409.0
+    ],
+    "label": "danger",
+    "description": "Hand holding a cigarette having a shade of gun",
+    "signifier": "gun",
+    "relation_type": "HasProperty"
+  },
+  "3/157933.jpg": {
+    "region": [
+      298.0,
+      291.0,
+      1.0,
+      9.0
+    ],
+    "label": "danger",
+    "description": "Axes near a tree",
+    "signifier": "axe",
+    "relation_type": "HasProperty"
+  },
+  "10/175479.png": {
+    "region": [
+      255.0,
+      101.0,
+      410.0,
+      286.0
+    ],
+    "label": "danger",
+    "description": "Human head breaking a screen",
+    "signifier": "breaking",
+    "relation_type": "RelatedTo"
+  },
+  "1/13301.jpg": {
+    "region": [
+      13.0,
+      29.0,
+      265.0,
+      460.0
+    ],
+    "label": "danger",
+    "description": "Snowy countryside road rotated 90 degrees",
+    "signifier": "countryside road",
+    "relation_type": "indirect"
+  },
+  "2/150222.jpg": {
+    "region": [
+      128.0,
+      118.0,
+      250.0,
+      186.0
+    ],
+    "label": "danger",
+    "description": "Shark fin on a goldfish",
+    "signifier": "shark fin",
+    "relation_type": "HasProperty"
+  },
+  "10/172394.png": {
+    "region": [
+      84.0,
+      56.0,
+      413.0,
+      456.0
+    ],
+    "label": "danger",
+    "description": "Cigarette smoke in the shape of mushroom cloud",
+    "signifier": "mushroom cloud",
+    "relation_type": "RelatedTo"
+  },
+  "7/105607.jpg": {
+    "region": [
+      73.0,
+      59.0,
+      243.0,
+      448.0
+    ],
+    "label": "danger",
+    "description": "Lotion bottle entangled by barbed wire",
+    "signifier": "barbed wire",
+    "relation_type": "RelatedTo"
+  },
+  "9/135049.jpg": {
+    "region": [
+      63.0,
+      84.0,
+      419.0,
+      456.0
+    ],
+    "label": "death",
+    "description": "Out of cigarette shaped battery",
+    "signifier": "out of battery",
+    "relation_type": "others"
+  },
+  "10/170309.png": {
+    "region": [
+      110.0,
+      107.0,
+      410.0,
+      313.0
+    ],
+    "label": "death",
+    "description": "Gun shaped car key",
+    "signifier": "gun",
+    "relation_type": "others"
+  },
+  "10/175562.png": {
+    "region": [
+      139.0,
+      27.0,
+      331.0,
+      461.0
+    ],
+    "label": "death",
+    "description": "Human shaped cookie hanged",
+    "signifier": "hanging",
+    "relation_type": "others"
+  },
+  "10/177955.png": {
+    "region": [
+      27.0,
+      337.0,
+      489.0,
+      468.0
+    ],
+    "label": "death",
+    "description": "Foot stepping on tombstone",
+    "signifier": "tombstone",
+    "relation_type": "others"
+  },
+  "8/124158.jpg": {
+    "region": [
+      84.0,
+      11.0,
+      346.0,
+      438.0
+    ],
+    "label": "death",
+    "description": "Tape hanging itself to suicide ",
+    "signifier": "hanging",
+    "relation_type": "others"
+  },
+  "1/135091.jpg": {
+    "region": [
+      428.0,
+      272.0,
+      486.0,
+      387.0
+    ],
+    "label": "death",
+    "description": "Dead cigarette",
+    "signifier": "cigarette",
+    "relation_type": "others"
+  },
+  "9/46059.jpg": {
+    "region": [
+      284.0,
+      101.0,
+      438.0,
+      315.0
+    ],
+    "label": "death",
+    "description": "Shark eating human leg",
+    "signifier": "shark",
+    "relation_type": "others"
+  },
+  "9/102959.jpg": {
+    "region": [
+      56.0,
+      47.0,
+      448.0,
+      365.0
+    ],
+    "label": "death",
+    "description": "War ship",
+    "signifier": "war",
+    "relation_type": "others"
+  },
+  "10/170285.png": {
+    "region": [
+      194.0,
+      9.0,
+      485.0,
+      325.0
+    ],
+    "label": "death",
+    "description": "Blood pouring from the phone",
+    "signifier": "blood",
+    "relation_type": "RelatedTo"
+  },
+  "0/141810.jpg": {
+    "region": [
+      102.0,
+      110.0,
+      211.0,
+      291.0
+    ],
+    "label": "death",
+    "description": "Suicide rope",
+    "signifier": "suicide rope",
+    "relation_type": "UsedFor"
+  },
+  "7/158967.jpg": {
+    "region": [
+      10.0,
+      131.0,
+      480.0,
+      390.0
+    ],
+    "label": "speed",
+    "description": "Moving car",
+    "signifier": "car",
+    "relation_type": "HasProperty"
+  },
+  "0/73310.jpg": {
+    "region": [
+      87.0,
+      118.0,
+      479.0,
+      277.0
+    ],
+    "label": "speed",
+    "description": "Rabbit shaped cloud",
+    "signifier": "rabbit",
+    "relation_type": "HasProperty"
+  },
+  "10/175435.png": {
+    "region": [
+      71.0,
+      81.0,
+      224.0,
+      428.0
+    ],
+    "label": "speed",
+    "description": "Runner getting ready to run",
+    "signifier": "runner",
+    "relation_type": "HasProperty"
+  },
+  "10/172614.png": {
+    "region": [
+      484.0,
+      367.0,
+      0.0,
+      11.0
+    ],
+    "label": "speed",
+    "description": "Red car advertisement",
+    "signifier": "car",
+    "relation_type": "HasProperty"
+  },
+  "2/118912.jpg": {
+    "region": [
+      84.0,
+      123.0,
+      466.0,
+      257.0
+    ],
+    "label": "speed",
+    "description": "Moving blue car advertisement",
+    "signifier": "car",
+    "relation_type": "HasProperty"
+  },
+  "10/171835.png": {
+    "region": [
+      398.0,
+      373.0,
+      36.0,
+      149.0
+    ],
+    "label": "speed",
+    "description": "Motorcycle that turns a corner leaning down",
+    "signifier": "motorcycle",
+    "relation_type": "HasProperty"
+  },
+  "10/170995.png": {
+    "region": [
+      402.0,
+      272.0,
+      78.0,
+      29.0
+    ],
+    "label": "speed",
+    "description": "Red car advertisement",
+    "signifier": "car",
+    "relation_type": "HasProperty"
+  },
+  "1/1161.jpg": {
+    "region": [
+      442.0,
+      102.0,
+      37.0,
+      471.0
+    ],
+    "label": "speed",
+    "description": "Seagoing car from land",
+    "signifier": "car",
+    "relation_type": "HasProperty"
+  },
+  "10/171645.png": {
+    "region": [
+      75.0,
+      241.0,
+      474.0,
+      385.0
+    ],
+    "label": "speed",
+    "description": "Red car advertisement",
+    "signifier": "car",
+    "relation_type": "HasProperty"
+  },
+  "10/172956.png": {
+    "region": [
+      17.0,
+      153.0,
+      322.0,
+      344.0
+    ],
+    "label": "speed",
+    "description": "Fast white car",
+    "signifier": "car",
+    "relation_type": "HasProperty"
+  },
+  "0/76490.jpg": {
+    "region": [
+      27.0,
+      45.0,
+      444.0,
+      450.0
+    ],
+    "label": "travel",
+    "description": "Car evolution ",
+    "signifier": "car",
+    "relation_type": "UsedFor"
+  },
+  "10/171856.png": {
+    "region": [
+      163.0,
+      164.0,
+      355.0,
+      441.0
+    ],
+    "label": "travel",
+    "description": "Woman sitting on the bags",
+    "signifier": "bag",
+    "relation_type": "UsedFor"
+  },
+  "10/172332.png": {
+    "region": [
+      10.0,
+      76.0,
+      158.0,
+      362.0
+    ],
+    "label": "travel",
+    "description": "The road and clouds behind the car",
+    "signifier": "car",
+    "relation_type": "UsedFor"
+  },
+  "10/177905.png": {
+    "region": [
+      2.0,
+      6.0,
+      490.0,
+      495.0
+    ],
+    "label": "travel",
+    "description": "The toblerone mountain variations ",
+    "signifier": "mountain",
+    "relation_type": "RelatedTo"
+  },
+  "0/37180.jpg": {
+    "region": [
+      114.0,
+      251.0,
+      428.0,
+      469.0
+    ],
+    "label": "travel",
+    "description": "Cloud-shaped foam",
+    "signifier": "foam",
+    "relation_type": "indirect"
+  },
+  "1/36291.jpg": {
+    "region": [
+      65.0,
+      45.0,
+      440.0,
+      358.0
+    ],
+    "label": "travel",
+    "description": "Man having wings",
+    "signifier": "wing",
+    "relation_type": "UsedFor"
+  },
+  "4/76734.jpg": {
+    "region": [
+      152.0,
+      120.0,
+      318.0,
+      413.0
+    ],
+    "label": "travel",
+    "description": "Man holding knife",
+    "signifier": "knife",
+    "relation_type": "indirect"
+  },
+  "3/39413.jpg": {
+    "region": [
+      44.0,
+      41.0,
+      235.0,
+      493.0
+    ],
+    "label": "travel",
+    "description": "The pole showing the directions",
+    "signifier": "pole",
+    "relation_type": "indirect"
+  },
+  "10/171942.png": {
+    "region": [
+      50.0,
+      110.0,
+      322.0,
+      315.0
+    ],
+    "label": "travel",
+    "description": "Blue car going uphill",
+    "signifier": "car",
+    "relation_type": "UsedFor"
+  },
+  "2/21642.jpg": {
+    "region": [
+      108.0,
+      228.0,
+      447.0,
+      423.0
+    ],
+    "label": "travel",
+    "description": "Wallet shaped city view",
+    "signifier": "city view",
+    "relation_type": "RelatedTo"
+  },
+  "5/65345.jpg": {
+    "region": [
+      440.0,
+      75.0,
+      261.0,
+      299.0
+    ],
+    "label": "natural",
+    "description": "Naked woman holding eggs",
+    "signifier": "naked",
+    "relation_type": "RelatedTo"
+  },
+  "10/171517.png": {
+    "region": [
+      218.0,
+      69.0,
+      484.0,
+      425.0
+    ],
+    "label": "natural",
+    "description": "Wheat",
+    "signifier": "wheat",
+    "relation_type": "RelatedTo"
+  },
+  "8/103268.jpg": {
+    "region": [
+      63.0,
+      38.0,
+      409.0,
+      354.0
+    ],
+    "label": "natural",
+    "description": "Writings on red leaf tree",
+    "signifier": "tree",
+    "relation_type": "RelatedTo"
+  },
+  "10/170972.png": {
+    "region": [
+      488.0,
+      484.0,
+      0.0,
+      388.0
+    ],
+    "label": "natural",
+    "description": "Plants and chips",
+    "signifier": "plant",
+    "relation_type": "RelatedTo"
+  },
+  "10/172604.png": {
+    "region": [
+      80.0,
+      49.0,
+      238.0,
+      196.0
+    ],
+    "label": "natural",
+    "description": "Growing flowers on the ceiling",
+    "signifier": "flower",
+    "relation_type": "RelatedTo"
+  },
+  "4/29344.jpg": {
+    "region": [
+      90.0,
+      63.0,
+      252.0,
+      421.0
+    ],
+    "label": "natural",
+    "description": "Cleaning tool",
+    "signifier": "cleaning tool",
+    "relation_type": "indirect"
+  },
+  "2/116532.jpg": {
+    "region": [
+      257.0,
+      282.0,
+      499.0,
+      455.0
+    ],
+    "label": "natural",
+    "description": "Panty-shaped leaves",
+    "signifier": "leaf",
+    "relation_type": "RelatedTo"
+  },
+  "10/171524.png": {
+    "region": [
+      10.0,
+      230.0,
+      166.0,
+      347.0
+    ],
+    "label": "natural",
+    "description": "Grazing deer",
+    "signifier": "deer",
+    "relation_type": "RelatedTo"
+  },
+  "1/165121.jpg": {
+    "region": [
+      186.0,
+      442.0,
+      77.0,
+      122.0
+    ],
+    "label": "natural",
+    "description": "Happy woman with one leg in the air",
+    "signifier": "woman",
+    "relation_type": "indirect"
+  },
+  "10/177135.png": {
+    "region": [
+      12.0,
+      83.0,
+      495.0,
+      459.0
+    ],
+    "label": "natural",
+    "description": "Naked sexy woman hugging rabbit",
+    "signifier": "rabbit",
+    "relation_type": "indirect"
+  },
+  "10/173045.png": {
+    "region": [
+      137.0,
+      144.0,
+      267.0,
+      208.0
+    ],
+    "label": "love",
+    "description": "Selfie of two people",
+    "signifier": "selfie",
+    "relation_type": "indirect"
+  },
+  "10/170744.png": {
+    "region": [
+      299.0,
+      379.0,
+      73.0,
+      29.0
+    ],
+    "label": "love",
+    "description": "Hugging lovers",
+    "signifier": "hugging",
+    "relation_type": "others"
+  },
+  "2/87582.jpg": {
+    "region": [
+      25.0,
+      53.0,
+      478.0,
+      428.0
+    ],
+    "label": "love",
+    "description": "Heart-shaped lovers hugging on the ground and kissing",
+    "signifier": "kissing",
+    "relation_type": "others"
+  },
+  "10/174352.png": {
+    "region": [
+      120.0,
+      70.0,
+      378.0,
+      446.0
+    ],
+    "label": "love",
+    "description": "Heart-shaped two chocolates",
+    "signifier": "chocolate",
+    "relation_type": "others"
+  },
+  "10/171115.png": {
+    "region": [
+      105.0,
+      81.0,
+      484.0,
+      217.0
+    ],
+    "label": "love",
+    "description": "Giraffe and dog love",
+    "signifier": "giraffe",
+    "relation_type": "indirect"
+  },
+  "1/31961.jpg": {
+    "region": [
+      122.0,
+      186.0,
+      366.0,
+      337.0
+    ],
+    "label": "love",
+    "description": "The plate written make love on it",
+    "signifier": "plate",
+    "relation_type": "indirect"
+  },
+  "10/172288.png": {
+    "region": [
+      362.0,
+      364.0,
+      410.0,
+      411.0
+    ],
+    "label": "love",
+    "description": "Emblem of magnum ice cream brand",
+    "signifier": "ice cream",
+    "relation_type": "indirect"
+  },
+  "6/29766.jpg": {
+    "region": [
+      157.0,
+      94.0,
+      332.0,
+      296.0
+    ],
+    "label": "love",
+    "description": "Heart shaped drink cap",
+    "signifier": "heart",
+    "relation_type": "others"
+  },
+  "10/170422.png": {
+    "region": [
+      98.0,
+      294.0,
+      168.0,
+      329.0
+    ],
+    "label": "love",
+    "description": "Rose petal on the ground",
+    "signifier": "rose",
+    "relation_type": "others"
+  },
+  "0/66390.jpg": {
+    "region": [
+      67.0,
+      54.0,
+      238.0,
+      237.0
+    ],
+    "label": "love",
+    "description": "Two people looking each other",
+    "signifier": "looking",
+    "relation_type": "indirect"
+  },
+  "1/108581.jpg": {
+    "region": [
+      136.0,
+      74.0,
+      329.0,
+      465.0
+    ],
+    "label": "nature",
+    "description": "Flowers and leaves around phones",
+    "signifier": "flower",
+    "relation_type": "RelatedTo"
+  },
+  "2/120202.jpg": {
+    "region": [
+      439.0,
+      1.0,
+      39.0,
+      289.0
+    ],
+    "label": "nature",
+    "description": "Chips arranged as flowers in container",
+    "signifier": "flower",
+    "relation_type": "RelatedTo"
+  },
+  "10/177927.png": {
+    "region": [
+      484.0,
+      420.0,
+      140.0,
+      166.0
+    ],
+    "label": "nature",
+    "description": "Woman's head on tiger body behind bars",
+    "signifier": "tiger",
+    "relation_type": "RelatedTo"
+  },
+  "2/76672.jpg": {
+    "region": [
+      336.0,
+      398.0,
+      103.0,
+      70.0
+    ],
+    "label": "nature",
+    "description": "Dirt as face mask on man",
+    "signifier": "dirt",
+    "relation_type": "RelatedTo"
+  },
+  "10/170039.png": {
+    "region": [
+      26.0,
+      70.0,
+      324.0,
+      440.0
+    ],
+    "label": "nature",
+    "description": "Flowers emanating from lipstick",
+    "signifier": "flower",
+    "relation_type": "RelatedTo"
+  },
+  "10/173033.png": {
+    "region": [
+      4.0,
+      379.0,
+      499.0,
+      498.0
+    ],
+    "label": "nature",
+    "description": "Man in clothes moving through grass",
+    "signifier": "grass",
+    "relation_type": "RelatedTo"
+  },
+  "5/70545.jpg": {
+    "region": [
+      104.0,
+      62.0,
+      361.0,
+      269.0
+    ],
+    "label": "nature",
+    "description": "Bee looking forward",
+    "signifier": "bee",
+    "relation_type": "RelatedTo"
+  },
+  "10/172648.png": {
+    "region": [
+      107.0,
+      20.0,
+      414.0,
+      59.0
+    ],
+    "label": "nature",
+    "description": "Animal shapes next to each other",
+    "signifier": "animal",
+    "relation_type": "RelatedTo"
+  },
+  "1/82711.jpg": {
+    "region": [
+      36.0,
+      59.0,
+      449.0,
+      383.0
+    ],
+    "label": "nature",
+    "description": "Predators spotting white zebra as prey",
+    "signifier": "zebra",
+    "relation_type": "RelatedTo"
+  },
+  "10/175007.png": {
+    "region": [
+      498.0,
+      0.0,
+      5.0,
+      500.0
+    ],
+    "label": "nature",
+    "description": "Gold tree",
+    "signifier": "tree",
+    "relation_type": "RelatedTo"
+  },
+  "10/170165.png": {
+    "region": [
+      490.0,
+      413.0,
+      378.0,
+      286.0
+    ],
+    "label": "christmas",
+    "description": "Bow tie on top of product",
+    "signifier": "bow tie",
+    "relation_type": "UsedFor"
+  },
+  "7/116037.jpg": {
+    "region": [
+      33.0,
+      15.0,
+      429.0,
+      356.0
+    ],
+    "label": "christmas",
+    "description": "Ornaments shaped as question mark",
+    "signifier": "ornaments",
+    "relation_type": "UsedFor"
+  },
+  "10/172149.png": {
+    "region": [
+      66.0,
+      31.0,
+      428.0,
+      415.0
+    ],
+    "label": "christmas",
+    "description": "Fries shaped as christmas tree",
+    "signifier": "christmas tree",
+    "relation_type": "UsedFor"
+  },
+  "8/96468.jpg": {
+    "region": [
+      403.0,
+      82.0,
+      98.0,
+      445.0
+    ],
+    "label": "christmas",
+    "description": "Fries shaped as christmas tree",
+    "signifier": "christmas tree",
+    "relation_type": "UsedFor"
+  },
+  "10/172663.png": {
+    "region": [
+      2.0,
+      0.0,
+      188.0,
+      85.0
+    ],
+    "label": "christmas",
+    "description": "Bow tie on advertisement behind product",
+    "signifier": "bow tie",
+    "relation_type": "UsedFor"
+  },
+  "10/173347.png": {
+    "region": [
+      76.0,
+      104.0,
+      449.0,
+      491.0
+    ],
+    "label": "christmas",
+    "description": "Fries shaped as christmas tree",
+    "signifier": "christmas tree",
+    "relation_type": "UsedFor"
+  },
+  "5/115825.jpg": {
+    "region": [
+      136.0,
+      215.0,
+      397.0,
+      500.0
+    ],
+    "label": "christmas",
+    "description": "Sugar and light shaped as christmas tree",
+    "signifier": "christmas tree",
+    "relation_type": "UsedFor"
+  },
+  "10/170176.png": {
+    "region": [
+      414.0,
+      102.0,
+      494.0,
+      172.0
+    ],
+    "label": "christmas",
+    "description": "Bow tie on top of soap product",
+    "signifier": "bow tie",
+    "relation_type": "UsedFor"
+  },
+  "10/177792.png": {
+    "region": [
+      160.0,
+      47.0,
+      338.0,
+      316.0
+    ],
+    "label": "christmas",
+    "description": "Chocolate shaped as christmas tree",
+    "signifier": "christmas tree",
+    "relation_type": "UsedFor"
+  },
+  "0/82890.jpg": {
+    "region": [
+      72.0,
+      15.0,
+      472.0,
+      273.0
+    ],
+    "label": "christmas",
+    "description": "Headphones shaped as christmas tree",
+    "signifier": "christmas tree",
+    "relation_type": "UsedFor"
+  },
+  "5/110805.jpg": {
+    "region": [
+      406.0,
+      322.0,
+      208.0,
+      498.0
+    ],
+    "label": "fun",
+    "description": "Oreo floating in swimming pool of milk",
+    "signifier": "swimming pool",
+    "relation_type": "UsedFor"
+  },
+  "8/144828.jpg": {
+    "region": [
+      204.0,
+      244.0,
+      440.0,
+      71.0
+    ],
+    "label": "fun",
+    "description": "Car on road next to luggage",
+    "signifier": "car",
+    "relation_type": "HasProperty"
+  },
+  "10/173339.png": {
+    "region": [
+      48.0,
+      184.0,
+      297.0,
+      377.0
+    ],
+    "label": "fun",
+    "description": "Cleaning product shaped as car",
+    "signifier": "car",
+    "relation_type": "HasProperty"
+  },
+  "0/76910.jpg": {
+    "region": [
+      76.0,
+      129.0,
+      288.0,
+      377.0
+    ],
+    "label": "fun",
+    "description": "Dirt shaped as truck",
+    "signifier": "truck",
+    "relation_type": "indirect"
+  },
+  "10/170936.png": {
+    "region": [
+      121.0,
+      91.0,
+      476.0,
+      320.0
+    ],
+    "label": "fun",
+    "description": "Coke with fizz being used as writing",
+    "signifier": "coke",
+    "relation_type": "UsedFor"
+  },
+  "2/115542.jpg": {
+    "region": [
+      22.0,
+      0.0,
+      492.0,
+      327.0
+    ],
+    "label": "fun",
+    "description": "People running with pepsi in ice cube",
+    "signifier": "pepsi",
+    "relation_type": "UsedFor"
+  },
+  "10/177751.png": {
+    "region": [
+      408.0,
+      70.0,
+      314.0,
+      381.0
+    ],
+    "label": "fun",
+    "description": "Ketchup with hot dog raised to it",
+    "signifier": "ketchup",
+    "relation_type": "indirect"
+  },
+  "10/170078.png": {
+    "region": [
+      28.0,
+      39.0,
+      224.0,
+      226.0
+    ],
+    "label": "fun",
+    "description": "People relaxing with beer",
+    "signifier": "beer",
+    "relation_type": "others"
+  },
+  "10/176349.png": {
+    "region": [
+      52.0,
+      52.0,
+      449.0,
+      355.0
+    ],
+    "label": "fun",
+    "description": "Maze of chocolate processing",
+    "signifier": "maze",
+    "relation_type": "HasProperty"
+  },
+  "8/14258.jpg": {
+    "region": [
+      304.0,
+      48.0,
+      416.0,
+      411.0
+    ],
+    "label": "fun",
+    "description": "Words disseminating into vodka bottle",
+    "signifier": "vodka",
+    "relation_type": "UsedFor"
+  },
+  "10/170325.png": {
+    "region": [
+      98.0,
+      255.0,
+      286.0,
+      426.0
+    ],
+    "label": "food",
+    "description": "Burger and fire on meat container",
+    "signifier": "burger",
+    "relation_type": "others"
+  },
+  "10/170607.png": {
+    "region": [
+      42.0,
+      26.0,
+      477.0,
+      452.0
+    ],
+    "label": "food",
+    "description": "Burger tacos fries and coke all together",
+    "signifier": "burger",
+    "relation_type": "others"
+  },
+  "10/176258.png": {
+    "region": [
+      66.0,
+      103.0,
+      445.0,
+      394.0
+    ],
+    "label": "food",
+    "description": "Person screaming with burger",
+    "signifier": "burger",
+    "relation_type": "others"
+  },
+  "10/177614.png": {
+    "region": [
+      179.0,
+      127.0,
+      493.0,
+      473.0
+    ],
+    "label": "food",
+    "description": "Ketchup shaped as tomato",
+    "signifier": "ketchup",
+    "relation_type": "others"
+  },
+  "3/35413.jpg": {
+    "region": [
+      265.0,
+      39.0,
+      500.0,
+      459.0
+    ],
+    "label": "food",
+    "description": "Hotdog personified as character",
+    "signifier": "hotdog",
+    "relation_type": "others"
+  },
+  "10/177443.png": {
+    "region": [
+      89.0,
+      307.0,
+      172.0,
+      374.0
+    ],
+    "label": "food",
+    "description": "Item inside of person's mouth",
+    "signifier": "mouth",
+    "relation_type": "UsedFor"
+  },
+  "10/177819.png": {
+    "region": [
+      42.0,
+      29.0,
+      446.0,
+      444.0
+    ],
+    "label": "food",
+    "description": "Strawberry and regular milk pouring down person's face",
+    "signifier": "strawberry",
+    "relation_type": "others"
+  },
+  "1/26811.jpg": {
+    "region": [
+      79.0,
+      404.0,
+      212.0,
+      158.0
+    ],
+    "label": "food",
+    "description": "Talking chicken",
+    "signifier": "chicken",
+    "relation_type": "others"
+  },
+  "0/135240.jpg": {
+    "region": [
+      35.0,
+      60.0,
+      445.0,
+      335.0
+    ],
+    "label": "food",
+    "description": "Bowl of cigarettes and ashes as food",
+    "signifier": "bowl",
+    "relation_type": "UsedFor"
+  },
+  "10/170362.png": {
+    "region": [
+      173.0,
+      376.0,
+      302.0,
+      76.0
+    ],
+    "label": "food",
+    "description": "Chocolate bar personified as ghost",
+    "signifier": "chocolate bar",
+    "relation_type": "others"
+  },
+  "6/76916.jpg": {
+    "region": [
+      397.0,
+      292.0,
+      278.0,
+      382.0
+    ],
+    "label": "environment",
+    "description": "Alone penguin in grass",
+    "signifier": "penguin",
+    "relation_type": "RelatedTo"
+  },
+  "6/52846.jpg": {
+    "region": [
+      196.0,
+      111.0,
+      299.0,
+      200.0
+    ],
+    "label": "environment",
+    "description": "Tree with fallen leaves and upside down",
+    "signifier": "tree",
+    "relation_type": "others"
+  },
+  "10/171133.png": {
+    "region": [
+      17.0,
+      230.0,
+      454.0,
+      500.0
+    ],
+    "label": "environment",
+    "description": "Water rising from plant",
+    "signifier": "plant",
+    "relation_type": "others"
+  },
+  "1/145631.jpg": {
+    "region": [
+      383.0,
+      142.0,
+      0.0,
+      435.0
+    ],
+    "label": "environment",
+    "description": "World made out of trees and cream",
+    "signifier": "tree",
+    "relation_type": "others"
+  },
+  "4/37374.jpg": {
+    "region": [
+      187.0,
+      59.0,
+      489.0,
+      415.0
+    ],
+    "label": "environment",
+    "description": "Bottle speaking",
+    "signifier": "bottle",
+    "relation_type": "indirect"
+  },
+  "1/30031.jpg": {
+    "region": [
+      468.0,
+      85.0,
+      17.0,
+      429.0
+    ],
+    "label": "environment",
+    "description": "Leaves flowing together",
+    "signifier": "leaf",
+    "relation_type": "RelatedTo"
+  },
+  "4/52514.jpg": {
+    "region": [
+      25.0,
+      97.0,
+      486.0,
+      338.0
+    ],
+    "label": "environment",
+    "description": "Airplane shape in leaf",
+    "signifier": "leaf",
+    "relation_type": "RelatedTo"
+  },
+  "0/87890.jpg": {
+    "region": [
+      37.0,
+      14.0,
+      456.0,
+      466.0
+    ],
+    "label": "environment",
+    "description": "Piece of jeans being shown as plant",
+    "signifier": "plant",
+    "relation_type": "others"
+  },
+  "1/85691.jpg": {
+    "region": [
+      90.0,
+      199.0,
+      399.0,
+      363.0
+    ],
+    "label": "environment",
+    "description": "Cloud types in bottles in car backseat",
+    "signifier": "cloud",
+    "relation_type": "RelatedTo"
+  },
+  "10/171602.png": {
+    "region": [
+      0.0,
+      312.0,
+      424.0,
+      446.0
+    ],
+    "label": "environment",
+    "description": "Red paint in water",
+    "signifier": "paint",
+    "relation_type": "indirect"
+  },
+  "7/134997.jpg": {
+    "region": [
+      33.0,
+      133.0,
+      373.0,
+      433.0
+    ],
+    "label": "smoking",
+    "description": "Burning cigarette",
+    "signifier": "cigarette",
+    "relation_type": "UsedFor"
+  },
+  "10/177720.png": {
+    "region": [
+      82.0,
+      94.0,
+      452.0,
+      455.0
+    ],
+    "label": "smoking",
+    "description": "Kid held like a cigarette",
+    "signifier": "cigarette",
+    "relation_type": "UsedFor"
+  },
+  "10/174522.png": {
+    "region": [
+      82.0,
+      124.0,
+      426.0,
+      362.0
+    ],
+    "label": "smoking",
+    "description": "Cigarettes making up a burger",
+    "signifier": "cigarette",
+    "relation_type": "UsedFor"
+  },
+  "10/175838.png": {
+    "region": [
+      458.0,
+      401.0,
+      64.0,
+      18.0
+    ],
+    "label": "smoking",
+    "description": "Smoke chocked child",
+    "signifier": "chocked",
+    "relation_type": "others"
+  },
+  "4/134944.jpg": {
+    "region": [
+      498.0,
+      498.5498046875,
+      3.0,
+      30.5498046875
+    ],
+    "label": "smoking",
+    "description": "Man smoking",
+    "signifier": "man",
+    "relation_type": "indirect"
+  },
+  "4/134934.jpg": {
+    "region": [
+      496.0,
+      495.8701171875,
+      10.0,
+      1.439453125
+    ],
+    "label": "smoking",
+    "description": "Person smoking",
+    "signifier": "person",
+    "relation_type": "indirect"
+  },
+  "10/174231.png": {
+    "region": [
+      20.0,
+      37.0,
+      500.0,
+      481.0
+    ],
+    "label": "smoking",
+    "description": "Smoking cigarette",
+    "signifier": "cigarette",
+    "relation_type": "UsedFor"
+  },
+  "0/135250.jpg": {
+    "region": [
+      269.0,
+      356.0,
+      13.0,
+      119.0
+    ],
+    "label": "smoking",
+    "description": "Smoking cigarette",
+    "signifier": "cigarette",
+    "relation_type": "UsedFor"
+  },
+  "7/135237.jpg": {
+    "region": [
+      64.0,
+      297.0,
+      410.0,
+      162.0
+    ],
+    "label": "smoking",
+    "description": "Cigarette",
+    "signifier": "cigarette",
+    "relation_type": "UsedFor"
+  },
+  "4/135014.jpg": {
+    "region": [
+      500.0,
+      497.25,
+      1.0,
+      1.359375
+    ],
+    "label": "smoking",
+    "description": "Arm made to look like a cigarette",
+    "signifier": "cigarette",
+    "relation_type": "UsedFor"
+  },
+  "10/171770.png": {
+    "region": [
+      218.0,
+      29.0,
+      469.0,
+      447.0
+    ],
+    "label": "sex",
+    "description": "Two people under the bedsheets",
+    "signifier": "bedsheet",
+    "relation_type": "RelatedTo"
+  },
+  "10/171576.png": {
+    "region": [
+      70.0,
+      80.0,
+      412.0,
+      496.0
+    ],
+    "label": "sex",
+    "description": "Woman",
+    "signifier": "woman",
+    "relation_type": "RelatedTo"
+  },
+  "10/171859.png": {
+    "region": [
+      38.0,
+      69.0,
+      491.0,
+      225.0
+    ],
+    "label": "sex",
+    "description": "High heel shoes",
+    "signifier": "high heel shoes",
+    "relation_type": "HasProperty"
+  },
+  "10/170363.png": {
+    "region": [
+      141.0,
+      48.0,
+      355.0,
+      433.0
+    ],
+    "label": "sex",
+    "description": "Woman on a man's shoulders",
+    "signifier": "woman",
+    "relation_type": "RelatedTo"
+  },
+  "3/87983.jpg": {
+    "region": [
+      44.0,
+      3.0,
+      441.0,
+      494.0
+    ],
+    "label": "sex",
+    "description": "Man with unbuttoned shirt",
+    "signifier": "shirt",
+    "relation_type": "indirect"
+  },
+  "10/170010.png": {
+    "region": [
+      464.0,
+      490.0,
+      26.0,
+      6.0
+    ],
+    "label": "sex",
+    "description": "People washing clothes",
+    "signifier": "people",
+    "relation_type": "indirect"
+  },
+  "6/82966.jpg": {
+    "region": [
+      60.0,
+      6.0,
+      462.0,
+      465.0
+    ],
+    "label": "sex",
+    "description": "Man holding a cleaning lady",
+    "signifier": "man",
+    "relation_type": "indirect"
+  },
+  "8/24248.jpg": {
+    "region": [
+      81.0,
+      5.0,
+      273.0,
+      438.0
+    ],
+    "label": "sex",
+    "description": "Man holding a woman",
+    "signifier": "man",
+    "relation_type": "indirect"
+  },
+  "0/98320.jpg": {
+    "region": [
+      160.0,
+      172.0,
+      302.0,
+      440.0
+    ],
+    "label": "sex",
+    "description": "Girl leaning on bar",
+    "signifier": "girl",
+    "relation_type": "indirect"
+  },
+  "2/158832.jpg": {
+    "region": [
+      53.0,
+      209.0,
+      358.0,
+      428.0
+    ],
+    "label": "sex",
+    "description": "Man holding woman",
+    "signifier": "man",
+    "relation_type": "indirect"
+  },
+  "8/120198.jpg": {
+    "region": [
+      369.0,
+      92.0,
+      122.0,
+      396.0
+    ],
+    "label": "strength",
+    "description": "Steak breaking into pieces",
+    "signifier": "steak",
+    "relation_type": "indirect"
+  },
+  "10/170934.png": {
+    "region": [
+      245.0,
+      412.0,
+      24.0,
+      228.0
+    ],
+    "label": "strength",
+    "description": "Colorful bag",
+    "signifier": "bag",
+    "relation_type": "HasProperty"
+  },
+  "10/177041.png": {
+    "region": [
+      235.0,
+      276.0,
+      499.0,
+      496.0
+    ],
+    "label": "strength",
+    "description": "Hand rubbing banded wrist",
+    "signifier": "wrist",
+    "relation_type": "RelatedTo"
+  },
+  "3/86883.jpg": {
+    "region": [
+      167.0,
+      0.0,
+      344.0,
+      141.0
+    ],
+    "label": "strength",
+    "description": "Lion head mask",
+    "signifier": "lion",
+    "relation_type": "HasProperty"
+  },
+  "0/159960.jpg": {
+    "region": [
+      48.0,
+      45.0,
+      431.0,
+      374.0
+    ],
+    "label": "strength",
+    "description": "Front of truck",
+    "signifier": "truck",
+    "relation_type": "indirect"
+  },
+  "10/172589.png": {
+    "region": [
+      46.0,
+      82.0,
+      425.0,
+      171.0
+    ],
+    "label": "strength",
+    "description": "Fully loaded barbell",
+    "signifier": "barbell",
+    "relation_type": "UsedFor"
+  },
+  "6/97806.jpg": {
+    "region": [
+      12.0,
+      26.0,
+      487.0,
+      382.0
+    ],
+    "label": "strength",
+    "description": "Boy flexing his arm with milk in his mouth",
+    "signifier": "boy",
+    "relation_type": "indirect"
+  },
+  "10/170486.png": {
+    "region": [
+      377.0,
+      439.0,
+      125.0,
+      164.0
+    ],
+    "label": "strength",
+    "description": "Car-shaped hole in a mountain",
+    "signifier": "hole",
+    "relation_type": "indirect"
+  },
+  "1/72501.jpg": {
+    "region": [
+      198.0,
+      228.0,
+      366.0,
+      450.0
+    ],
+    "label": "strength",
+    "description": "Car-shaped hole on pliers",
+    "signifier": "hole",
+    "relation_type": "indirect"
+  },
+  "3/97813.jpg": {
+    "region": [
+      455.0,
+      70.0,
+      44.0,
+      354.0
+    ],
+    "label": "strength",
+    "description": "Milk glasses arranged as teeth",
+    "signifier": "teeth",
+    "relation_type": "HasProperty"
+  },
+  "10/172091.png": {
+    "region": [
+      73.0,
+      28.0,
+      402.0,
+      337.0
+    ],
+    "label": "strong",
+    "description": "M-shaped scratches",
+    "signifier": "scratch",
+    "relation_type": "indirect"
+  },
+  "1/100201.jpg": {
+    "region": [
+      118.77999877929688,
+      19.0498046875,
+      456.55999755859375,
+      370.169921875
+    ],
+    "label": "strong",
+    "description": "Cross-legged person relaxing",
+    "signifier": "person",
+    "relation_type": "indirect"
+  },
+  "2/123562.jpg": {
+    "region": [
+      428.7799987792969,
+      181.4599609375,
+      251.0,
+      379.240234375
+    ],
+    "label": "strong",
+    "description": "Shoes made out of red bull cans",
+    "signifier": "shoe",
+    "relation_type": "indirect"
+  },
+  "7/16047.jpg": {
+    "region": [
+      314.0,
+      118.0,
+      500.0,
+      396.0
+    ],
+    "label": "strong",
+    "description": "Laptop monitor and keyboard",
+    "signifier": "laptop",
+    "relation_type": "indirect"
+  },
+  "3/6233.jpg": {
+    "region": [
+      195.739990234375,
+      199.6298828125,
+      111.52999877929688,
+      44.8896484375
+    ],
+    "label": "strong",
+    "description": "Pile of saucepans",
+    "signifier": "saucepan",
+    "relation_type": "HasProperty"
+  },
+  "8/93938.jpg": {
+    "region": [
+      119.0,
+      14.0,
+      495.0,
+      500.0
+    ],
+    "label": "strong",
+    "description": "Superman with milk mustache",
+    "signifier": "superman",
+    "relation_type": "HasProperty"
+  },
+  "6/76816.jpg": {
+    "region": [
+      80.0,
+      116.0,
+      315.0,
+      336.0
+    ],
+    "label": "strong",
+    "description": "Bear with saddle",
+    "signifier": "bear",
+    "relation_type": "indirect"
+  },
+  "3/62813.jpg": {
+    "region": [
+      117.0,
+      29.0,
+      420.0,
+      363.0
+    ],
+    "label": "strong",
+    "description": "Miniature man riding a horse",
+    "signifier": "horse",
+    "relation_type": "HasProperty"
+  },
+  "4/85714.jpg": {
+    "region": [
+      109.0,
+      94.0,
+      390.0,
+      344.0
+    ],
+    "label": "strong",
+    "description": "Pile of cars",
+    "signifier": "car",
+    "relation_type": "indirect"
+  },
+  "3/1223.jpg": {
+    "region": [
+      105.0,
+      273.0,
+      227.0,
+      325.0
+    ],
+    "label": "strong",
+    "description": "Two cows in a field full of horses",
+    "signifier": "cow",
+    "relation_type": "HasProperty"
+  },
+  "10/173938.png": {
+    "region": [
+      91.0,
+      59.0,
+      205.0,
+      110.0
+    ],
+    "label": "healthy",
+    "description": "Black capital U and N",
+    "signifier": "U and N",
+    "relation_type": "indirect"
+  },
+  "10/170591.png": {
+    "region": [
+      90.0,
+      144.0,
+      414.0,
+      366.0
+    ],
+    "label": "healthy",
+    "description": "Cow made of vegetables",
+    "signifier": "vegetables",
+    "relation_type": "others"
+  },
+  "10/172517.png": {
+    "region": [
+      90.0,
+      59.0,
+      265.0,
+      335.0
+    ],
+    "label": "healthy",
+    "description": "Pun for fries",
+    "signifier": "pun",
+    "relation_type": "indirect"
+  },
+  "10/172324.png": {
+    "region": [
+      90.0,
+      91.0,
+      407.0,
+      339.0
+    ],
+    "label": "healthy",
+    "description": "Fruit and vegetables shaped as a burger",
+    "signifier": "fruit",
+    "relation_type": "others"
+  },
+  "2/97752.jpg": {
+    "region": [
+      148.0,
+      8.0,
+      491.0,
+      224.0
+    ],
+    "label": "healthy",
+    "description": "Baby drinking milk from a breast",
+    "signifier": "baby",
+    "relation_type": "indirect"
+  },
+  "10/173769.png": {
+    "region": [
+      346.0,
+      360.0,
+      500.0,
+      484.0
+    ],
+    "label": "healthy",
+    "description": "Cup for kale yogurt",
+    "signifier": "yogurt",
+    "relation_type": "others"
+  },
+  "10/170870.png": {
+    "region": [
+      233.0,
+      194.0,
+      452.0,
+      333.0
+    ],
+    "label": "healthy",
+    "description": "Salad",
+    "signifier": "salad",
+    "relation_type": "others"
+  },
+  "10/171892.png": {
+    "region": [
+      12.0,
+      179.0,
+      386.0,
+      500.0
+    ],
+    "label": "healthy",
+    "description": "Cup with frozen yogurt",
+    "signifier": "yogurt",
+    "relation_type": "others"
+  },
+  "10/171332.png": {
+    "region": [
+      162.0,
+      410.0,
+      342.0,
+      146.0
+    ],
+    "label": "healthy",
+    "description": "Tomato made of clay",
+    "signifier": "tomato",
+    "relation_type": "others"
+  },
+  "7/97647.jpg": {
+    "region": [
+      92.0,
+      120.0,
+      430.0,
+      192.0
+    ],
+    "label": "healthy",
+    "description": "Boys with milk mustache",
+    "signifier": "milk",
+    "relation_type": "HasProperty"
+  },
+  "10/177662.png": {
+    "region": [
+      135.0,
+      422.0,
+      352.0,
+      316.0
+    ],
+    "label": "humor",
+    "description": "Cheek protrusion as a pyramid",
+    "signifier": "cheek",
+    "relation_type": "indirect"
+  },
+  "6/82986.jpg": {
+    "region": [
+      488.0,
+      413.0,
+      243.0,
+      245.0
+    ],
+    "label": "humor",
+    "description": "Blue beetle car",
+    "signifier": "beetle car",
+    "relation_type": "indirect"
+  },
+  "3/96183.jpg": {
+    "region": [
+      129.0,
+      108.0,
+      372.0,
+      212.0
+    ],
+    "label": "humor",
+    "description": "Squint eyes",
+    "signifier": "eyes",
+    "relation_type": "indirect"
+  },
+  "1/25101.jpg": {
+    "region": [
+      24.0,
+      93.0,
+      476.0,
+      369.0
+    ],
+    "label": "humor",
+    "description": "Cows wearing clothes",
+    "signifier": "cow",
+    "relation_type": "indirect"
+  },
+  "1/1191.jpg": {
+    "region": [
+      3.0,
+      163.0,
+      72.0,
+      305.0
+    ],
+    "label": "humor",
+    "description": "Chicken stepping on road",
+    "signifier": "chicken",
+    "relation_type": "indirect"
+  },
+  "1/92021.jpg": {
+    "region": [
+      192.0,
+      85.0,
+      439.0,
+      285.0
+    ],
+    "label": "humor",
+    "description": "Old man using a computer",
+    "signifier": "man",
+    "relation_type": "indirect"
+  },
+  "10/174580.png": {
+    "region": [
+      245.0,
+      47.0,
+      393.0,
+      173.0
+    ],
+    "label": "humor",
+    "description": "Laughing face",
+    "signifier": "face",
+    "relation_type": "indirect"
+  },
+  "10/171799.png": {
+    "region": [
+      193.0,
+      284.0,
+      392.0,
+      351.0
+    ],
+    "label": "humor",
+    "description": "Chocolate bolted to table",
+    "signifier": "chocolate",
+    "relation_type": "indirect"
+  },
+  "10/170295.png": {
+    "region": [
+      181.0,
+      236.0,
+      331.0,
+      396.0
+    ],
+    "label": "humor",
+    "description": "Man surprised",
+    "signifier": "man",
+    "relation_type": "indirect"
+  },
+  "2/19012.jpg": {
+    "region": [
+      362.0,
+      389.0,
+      162.0,
+      60.0
+    ],
+    "label": "humor",
+    "description": "Banana wearing a neck support",
+    "signifier": "banana",
+    "relation_type": "indirect"
+  },
+  "1/55721.jpg": {
+    "region": [
+      44.0,
+      73.0,
+      499.0,
+      289.0
+    ],
+    "label": "energy",
+    "description": "Ants carrying muffin",
+    "signifier": "carrying",
+    "relation_type": "others"
+  },
+  "10/170785.png": {
+    "region": [
+      90.0,
+      125.0,
+      420.0,
+      257.0
+    ],
+    "label": "energy",
+    "description": "Coffee cup used as a switch",
+    "signifier": "switch",
+    "relation_type": "UsedFor"
+  },
+  "6/123366.jpg": {
+    "region": [
+      160.0,
+      294.0,
+      366.0,
+      65.0
+    ],
+    "label": "energy",
+    "description": "Girl jumping over an elephant",
+    "signifier": "jumping",
+    "relation_type": "others"
+  },
+  "10/177749.png": {
+    "region": [
+      147.0,
+      56.0,
+      439.0,
+      390.0
+    ],
+    "label": "energy",
+    "description": "Wing sketch",
+    "signifier": "wing",
+    "relation_type": "indirect"
+  },
+  "3/123393.jpg": {
+    "region": [
+      207.0,
+      381.0,
+      357.0,
+      485.0
+    ],
+    "label": "energy",
+    "description": "Wire unplugged",
+    "signifier": "wire",
+    "relation_type": "UsedFor"
+  },
+  "10/176993.png": {
+    "region": [
+      318.0,
+      317.0,
+      221.0,
+      193.0
+    ],
+    "label": "energy",
+    "description": "Coffee cup as a switch",
+    "signifier": "switch",
+    "relation_type": "UsedFor"
+  },
+  "10/176714.png": {
+    "region": [
+      303.0,
+      125.0,
+      70.0,
+      352.0
+    ],
+    "label": "energy",
+    "description": "Drink splashing out of bottle",
+    "signifier": "bottle",
+    "relation_type": "indirect"
+  },
+  "0/99960.jpg": {
+    "region": [
+      223.0,
+      105.0,
+      347.0,
+      275.0
+    ],
+    "label": "energy",
+    "description": "Face sketch as a beast",
+    "signifier": "beast",
+    "relation_type": "HasProperty"
+  },
+  "1/86761.jpg": {
+    "region": [
+      96.0,
+      4.0,
+      486.0,
+      468.0
+    ],
+    "label": "energy",
+    "description": "Girl keeping body upside down",
+    "signifier": "girl",
+    "relation_type": "indirect"
+  },
+  "10/177527.png": {
+    "region": [
+      182.0,
+      11.0,
+      496.0,
+      363.0
+    ],
+    "label": "energy",
+    "description": "Boy extending his eyes to cheat",
+    "signifier": "boy",
+    "relation_type": "indirect"
+  },
+  "10/174776.png": {
+    "region": [
+      42.0,
+      10.0,
+      478.0,
+      454.0
+    ],
+    "label": "fitness",
+    "description": "Bread shaped as abs",
+    "signifier": "abs",
+    "relation_type": "indirect"
+  },
+  "10/175485.png": {
+    "region": [
+      35.0,
+      50.0,
+      187.0,
+      366.0
+    ],
+    "label": "fitness",
+    "description": "Person",
+    "signifier": "person",
+    "relation_type": "indirect"
+  },
+  "10/170164.png": {
+    "region": [
+      326.0,
+      236.0,
+      203.0,
+      22.0
+    ],
+    "label": "fitness",
+    "description": "Girl practising gymnastics",
+    "signifier": "gymnastics",
+    "relation_type": "UsedFor"
+  },
+  "10/171826.png": {
+    "region": [
+      126.0,
+      96.0,
+      224.0,
+      464.0
+    ],
+    "label": "fitness",
+    "description": "Person bicycling",
+    "signifier": "bicycle",
+    "relation_type": "UsedFor"
+  },
+  "10/174759.png": {
+    "region": [
+      68.0,
+      137.0,
+      135.0,
+      209.0
+    ],
+    "label": "fitness",
+    "description": "Ball on hand",
+    "signifier": "ball",
+    "relation_type": "RelatedTo"
+  },
+  "10/173678.png": {
+    "region": [
+      136.0,
+      140.0,
+      396.0,
+      445.0
+    ],
+    "label": "fitness",
+    "description": "Frontal torso of person",
+    "signifier": "torso",
+    "relation_type": "indirect"
+  },
+  "10/174303.png": {
+    "region": [
+      179.0,
+      22.0,
+      363.0,
+      406.0
+    ],
+    "label": "fitness",
+    "description": "Vodka bottle upside down",
+    "signifier": "bottle",
+    "relation_type": "indirect"
+  },
+  "1/50061.jpg": {
+    "region": [
+      1.0,
+      114.0,
+      374.0,
+      500.0
+    ],
+    "label": "fitness",
+    "description": "Running shoe",
+    "signifier": "running shoe",
+    "relation_type": "UsedFor"
+  },
+  "10/170874.png": {
+    "region": [
+      160.0,
+      102.0,
+      259.0,
+      405.0
+    ],
+    "label": "fitness",
+    "description": "Frontal torso of person",
+    "signifier": "torso",
+    "relation_type": "indirect"
+  },
+  "10/177137.png": {
+    "region": [
+      481.0,
+      331.0,
+      99.0,
+      50.0
+    ],
+    "label": "fitness",
+    "description": "Drink shaped as a football player",
+    "signifier": "football player",
+    "relation_type": "HasProperty"
+  },
+  "10/175670.png": {
+    "region": [
+      228.0,
+      269.0,
+      335.0,
+      464.0
+    ],
+    "label": "fashion",
+    "description": "Girl",
+    "signifier": "girl",
+    "relation_type": "HasProperty"
+  },
+  "10/170036.png": {
+    "region": [
+      121.0,
+      126.0,
+      389.0,
+      327.0
+    ],
+    "label": "fashion",
+    "description": "Three girls",
+    "signifier": "girl",
+    "relation_type": "HasProperty"
+  },
+  "10/177441.png": {
+    "region": [
+      51.0,
+      21.0,
+      211.0,
+      483.0
+    ],
+    "label": "fashion",
+    "description": "Girl dressed in black",
+    "signifier": "girl",
+    "relation_type": "HasProperty"
+  },
+  "2/98692.jpg": {
+    "region": [
+      32.0,
+      35.0,
+      463.0,
+      467.0
+    ],
+    "label": "fashion",
+    "description": "Two people dancing together",
+    "signifier": "dancing",
+    "relation_type": "RelatedTo"
+  },
+  "3/81873.jpg": {
+    "region": [
+      466.0,
+      378.0,
+      38.0,
+      83.0
+    ],
+    "label": "fashion",
+    "description": "Car and tortoise with a peacock head and feathers",
+    "signifier": "car",
+    "relation_type": "HasProperty"
+  },
+  "0/41110.jpg": {
+    "region": [
+      458.0,
+      0.0,
+      272.0,
+      500.0
+    ],
+    "label": "fashion",
+    "description": "Girl with a red bag",
+    "signifier": "girl",
+    "relation_type": "HasProperty"
+  },
+  "10/171509.png": {
+    "region": [
+      75.0,
+      13.0,
+      442.0,
+      467.0
+    ],
+    "label": "fashion",
+    "description": "Girl on a chair",
+    "signifier": "girl",
+    "relation_type": "HasProperty"
+  },
+  "2/4902.jpg": {
+    "region": [
+      152.0,
+      33.0,
+      418.0,
+      408.0
+    ],
+    "label": "fashion",
+    "description": "Girl in red dress",
+    "signifier": "dress",
+    "relation_type": "HasProperty"
+  },
+  "3/39173.jpg": {
+    "region": [
+      149.0,
+      67.0,
+      483.0,
+      368.0
+    ],
+    "label": "fashion",
+    "description": "Girl dressed in white",
+    "signifier": "white",
+    "relation_type": "indirect"
+  },
+  "10/170070.png": {
+    "region": [
+      434.0,
+      374.0,
+      59.0,
+      37.0
+    ],
+    "label": "fashion",
+    "description": "Cars in shape of watch",
+    "signifier": "watch",
+    "relation_type": "HasProperty"
+  },
+  "0/88440.jpg": {
+    "region": [
+      43.0,
+      85.0,
+      462.0,
+      439.0
+    ],
+    "label": "entertainment",
+    "description": "Man sitting on bench",
+    "signifier": "bench",
+    "relation_type": "UsedFor"
+  },
+  "3/138433.jpg": {
+    "region": [
+      38.0,
+      64.0,
+      436.0,
+      379.0
+    ],
+    "label": "entertainment",
+    "description": "Tiger holding a racket in jaws",
+    "signifier": "racket",
+    "relation_type": "UsedFor"
+  },
+  "3/137903.jpg": {
+    "region": [
+      11.0,
+      77.0,
+      423.0,
+      482.0
+    ],
+    "label": "entertainment",
+    "description": "Two person in relay race",
+    "signifier": "race",
+    "relation_type": "UsedFor"
+  },
+  "1/148601.jpg": {
+    "region": [
+      7.0,
+      234.0,
+      226.0,
+      448.0
+    ],
+    "label": "entertainment",
+    "description": "Hand shaped as devil horns",
+    "signifier": "devil horn",
+    "relation_type": "UsedFor"
+  },
+  "1/65631.jpg": {
+    "region": [
+      110.0,
+      11.0,
+      408.0,
+      400.0
+    ],
+    "label": "entertainment",
+    "description": "Woman dressed in white costume singing",
+    "signifier": "singing",
+    "relation_type": "others"
+  },
+  "4/10214.jpg": {
+    "region": [
+      134.0,
+      87.0,
+      303.0,
+      353.0
+    ],
+    "label": "entertainment",
+    "description": "Beer can as a stack of CDs",
+    "signifier": "CDs",
+    "relation_type": "UsedFor"
+  },
+  "5/119975.jpg": {
+    "region": [
+      33.0,
+      138.0,
+      470.0,
+      345.0
+    ],
+    "label": "entertainment",
+    "description": "Gramophone record",
+    "signifier": "gramophone record",
+    "relation_type": "UsedFor"
+  },
+  "1/129141.jpg": {
+    "region": [
+      17.0,
+      60.0,
+      471.0,
+      437.0
+    ],
+    "label": "entertainment",
+    "description": "A group of girls",
+    "signifier": "girl",
+    "relation_type": "indirect"
+  },
+  "6/35616.jpg": {
+    "region": [
+      32.0,
+      15.0,
+      459.0,
+      492.0
+    ],
+    "label": "entertainment",
+    "description": "Cartoons with banner on hill",
+    "signifier": "cartoon",
+    "relation_type": "UsedFor"
+  },
+  "1/101231.jpg": {
+    "region": [
+      59.0,
+      22.0,
+      418.0,
+      415.0
+    ],
+    "label": "entertainment",
+    "description": "Two drink cans as flower cracker",
+    "signifier": "flower cracker",
+    "relation_type": "UsedFor"
+  },
+  "10/176618.png": {
+    "region": [
+      203.0,
+      112.0,
+      319.0,
+      304.0
+    ],
+    "label": "art",
+    "description": "Bucket",
+    "signifier": "bucket",
+    "relation_type": "UsedFor"
+  },
+  "1/125411.jpg": {
+    "region": [
+      461.0,
+      93.0,
+      213.0,
+      486.0
+    ],
+    "label": "art",
+    "description": "A Classical Greek Statue",
+    "signifier": "statue",
+    "relation_type": "others"
+  },
+  "7/95307.jpg": {
+    "region": [
+      146.0,
+      84.0,
+      394.0,
+      428.0
+    ],
+    "label": "art",
+    "description": "A bronze statue holding a hotdog",
+    "signifier": "statue",
+    "relation_type": "others"
+  },
+  "0/107400.jpg": {
+    "region": [
+      470.0,
+      362.0,
+      38.0,
+      31.0
+    ],
+    "label": "art",
+    "description": "Painting on the wall",
+    "signifier": "painting",
+    "relation_type": "others"
+  },
+  "3/67303.jpg": {
+    "region": [
+      52.0,
+      67.0,
+      402.0,
+      374.0
+    ],
+    "label": "art",
+    "description": "Optical illusion art",
+    "signifier": "illusion",
+    "relation_type": "RelatedTo"
+  },
+  "5/149765.jpg": {
+    "region": [
+      177.0,
+      129.0,
+      463.0,
+      412.0
+    ],
+    "label": "art",
+    "description": "People doing many different things",
+    "signifier": "people",
+    "relation_type": "indirect"
+  },
+  "4/158954.jpg": {
+    "region": [
+      173.0,
+      19.0,
+      327.0,
+      399.0
+    ],
+    "label": "art",
+    "description": "A vodka bottle covered by lots of ads of that brand of vodka",
+    "signifier": "bottle",
+    "relation_type": "indirect"
+  },
+  "9/11459.jpg": {
+    "region": [
+      27.0,
+      62.0,
+      157.0,
+      269.0
+    ],
+    "label": "art",
+    "description": "Famous paintings as billboards",
+    "signifier": "painting",
+    "relation_type": "others"
+  },
+  "3/67293.jpg": {
+    "region": [
+      115.0,
+      61.0,
+      441.0,
+      357.0
+    ],
+    "label": "art",
+    "description": "Many drip of sauce",
+    "signifier": "sauce",
+    "relation_type": "indirect"
+  },
+  "10/171033.png": {
+    "region": [
+      127.0,
+      162.0,
+      357.0,
+      329.0
+    ],
+    "label": "art",
+    "description": "A broken cookie",
+    "signifier": "cookie",
+    "relation_type": "indirect"
+  },
+  "7/150917.jpg": {
+    "region": [
+      126.0,
+      41.0,
+      347.0,
+      381.0
+    ],
+    "label": "freedom",
+    "description": "Face mask from a horror movie",
+    "signifier": "mask",
+    "relation_type": "indirect"
+  },
+  "4/91214.jpg": {
+    "region": [
+      239.0,
+      11.0,
+      474.0,
+      466.0
+    ],
+    "label": "freedom",
+    "description": "Hair in the wind",
+    "signifier": "wind",
+    "relation_type": "others"
+  },
+  "3/1653.jpg": {
+    "region": [
+      218.0,
+      197.0,
+      154.0,
+      95.0
+    ],
+    "label": "freedom",
+    "description": "A bird",
+    "signifier": "bird",
+    "relation_type": "others"
+  },
+  "3/19073.jpg": {
+    "region": [
+      17.0,
+      260.0,
+      463.0,
+      490.0
+    ],
+    "label": "freedom",
+    "description": "French fries to look like a pasture",
+    "signifier": "pasture",
+    "relation_type": "indirect"
+  },
+  "1/39391.jpg": {
+    "region": [
+      292.0,
+      322.0,
+      90.0,
+      141.0
+    ],
+    "label": "freedom",
+    "description": "A map",
+    "signifier": "map",
+    "relation_type": "others"
+  },
+  "2/118962.jpg": {
+    "region": [
+      182.0,
+      10.0,
+      500.0,
+      315.0
+    ],
+    "label": "freedom",
+    "description": "A car",
+    "signifier": "car",
+    "relation_type": "RelatedTo"
+  },
+  "0/76480.jpg": {
+    "region": [
+      457.0,
+      307.0,
+      71.0,
+      216.0
+    ],
+    "label": "freedom",
+    "description": "A car",
+    "signifier": "car",
+    "relation_type": "RelatedTo"
+  },
+  "0/85680.jpg": {
+    "region": [
+      254.0,
+      224.0,
+      153.0,
+      104.0
+    ],
+    "label": "freedom",
+    "description": "A man holding up an invisible painting",
+    "signifier": "painting",
+    "relation_type": "indirect"
+  },
+  "5/30675.jpg": {
+    "region": [
+      127.0,
+      227.0,
+      386.0,
+      423.0
+    ],
+    "label": "freedom",
+    "description": "Sandals to look like a butterfly",
+    "signifier": "butterfly",
+    "relation_type": "others"
+  },
+  "0/37530.jpg": {
+    "region": [
+      452.0,
+      349.0,
+      134.0,
+      200.0
+    ],
+    "label": "freedom",
+    "description": "A hallway",
+    "signifier": "hallway",
+    "relation_type": "indirect"
+  },
+  "4/158554.jpg": {
+    "region": [
+      50.0,
+      88.0,
+      434.0,
+      333.0
+    ],
+    "label": "party",
+    "description": "Two men drinking at a bar",
+    "signifier": "bar",
+    "relation_type": "others"
+  },
+  "10/175609.png": {
+    "region": [
+      103.0,
+      72.0,
+      462.0,
+      432.0
+    ],
+    "label": "party",
+    "description": "Chocolate in the shape of a cocktail glass",
+    "signifier": "cocktail",
+    "relation_type": "UsedFor"
+  },
+  "10/170531.png": {
+    "region": [
+      79.0,
+      154.0,
+      436.0,
+      386.0
+    ],
+    "label": "party",
+    "description": "People cheering on a bed",
+    "signifier": "cheering",
+    "relation_type": "others"
+  },
+  "7/115767.jpg": {
+    "region": [
+      167.0,
+      372.0,
+      332.0,
+      157.0
+    ],
+    "label": "party",
+    "description": "Bottle with a design of people partying",
+    "signifier": "people",
+    "relation_type": "indirect"
+  },
+  "2/11682.jpg": {
+    "region": [
+      121.0,
+      120.8701171875,
+      406.55999755859375,
+      391.990234375
+    ],
+    "label": "party",
+    "description": "Woman unpacking and constructing a mannequin",
+    "signifier": "mannequin",
+    "relation_type": "indirect"
+  },
+  "8/14358.jpg": {
+    "region": [
+      156.0,
+      39.0,
+      340.0,
+      478.0
+    ],
+    "label": "party",
+    "description": "Vodka bottle looking like a spotlight",
+    "signifier": "spotlight",
+    "relation_type": "UsedFor"
+  },
+  "10/173175.png": {
+    "region": [
+      2.0,
+      315.0,
+      500.0,
+      483.0
+    ],
+    "label": "party",
+    "description": "Silhouette of people partying",
+    "signifier": "people",
+    "relation_type": "indirect"
+  },
+  "10/170542.png": {
+    "region": [
+      83.0,
+      150.0,
+      258.0,
+      404.0
+    ],
+    "label": "party",
+    "description": "Three beer bottles in a cheer",
+    "signifier": "cheer",
+    "relation_type": "others"
+  },
+  "3/21583.jpg": {
+    "region": [
+      166.0,
+      146.0,
+      334.0,
+      278.0
+    ],
+    "label": "party",
+    "description": "Plate of food",
+    "signifier": "food",
+    "relation_type": "UsedFor"
+  },
+  "10/173660.png": {
+    "region": [
+      2.0,
+      1.0,
+      496.0,
+      157.0
+    ],
+    "label": "party",
+    "description": "Fireworks",
+    "signifier": "fireworks",
+    "relation_type": "UsedFor"
+  },
+  "2/41272.jpg": {
+    "region": [
+      241.0,
+      455.0,
+      496.0,
+      9.0
+    ],
+    "label": "violence",
+    "description": "A woman's face",
+    "signifier": "face",
+    "relation_type": "indirect"
+  },
+  "1/41381.jpg": {
+    "region": [
+      103.0,
+      410.0,
+      436.0,
+      83.0
+    ],
+    "label": "violence",
+    "description": "Parallel images of a distressed woman's face and a listening man's face",
+    "signifier": "face",
+    "relation_type": "indirect"
+  },
+  "0/33460.jpg": {
+    "region": [
+      12.0,
+      54.0,
+      131.0,
+      380.0
+    ],
+    "label": "violence",
+    "description": "Injured hand",
+    "signifier": "injured",
+    "relation_type": "others"
+  },
+  "0/41540.jpg": {
+    "region": [
+      206.0,
+      122.0,
+      298.0,
+      351.0
+    ],
+    "label": "violence",
+    "description": "Woman with a black eye",
+    "signifier": "black eye",
+    "relation_type": "others"
+  },
+  "9/41319.jpg": {
+    "region": [
+      308.0,
+      85.0,
+      455.0,
+      276.0
+    ],
+    "label": "violence",
+    "description": "Woman's face with injuries",
+    "signifier": "injury",
+    "relation_type": "others"
+  },
+  "1/41631.jpg": {
+    "region": [
+      248.0,
+      71.0,
+      453.0,
+      440.0
+    ],
+    "label": "violence",
+    "description": "A woman wrapped in police tape",
+    "signifier": "police tape",
+    "relation_type": "UsedFor"
+  },
+  "3/41623.jpg": {
+    "region": [
+      435.0,
+      411.0,
+      270.0,
+      91.0
+    ],
+    "label": "violence",
+    "description": "A woman wrapped in police tape",
+    "signifier": "police tape",
+    "relation_type": "UsedFor"
+  },
+  "6/41266.jpg": {
+    "region": [
+      280.0,
+      311.0,
+      325.0,
+      356.0
+    ],
+    "label": "violence",
+    "description": "Bruised eye",
+    "signifier": "bruised eye",
+    "relation_type": "others"
+  },
+  "2/87402.jpg": {
+    "region": [
+      440.0,
+      342.0,
+      333.0,
+      228.0
+    ],
+    "label": "violence",
+    "description": "A woman's face",
+    "signifier": "face",
+    "relation_type": "indirect"
+  },
+  "2/135272.jpg": {
+    "region": [
+      15.0,
+      182.0,
+      463.0,
+      273.0
+    ],
+    "label": "violence",
+    "description": "Cigarette",
+    "signifier": "cigarette",
+    "relation_type": "indirect"
+  },
+  "10/174743.png": {
+    "region": [
+      190.0,
+      166.0,
+      364.0,
+      324.0
+    ],
+    "label": "power",
+    "description": "A person jumping",
+    "signifier": "jumping",
+    "relation_type": "others"
+  },
+  "0/57920.jpg": {
+    "region": [
+      125.0,
+      100.0,
+      452.0,
+      303.0
+    ],
+    "label": "power",
+    "description": "A red car",
+    "signifier": "car",
+    "relation_type": "HasProperty"
+  },
+  "7/29057.jpg": {
+    "region": [
+      429.0,
+      21.0,
+      35.0,
+      216.0
+    ],
+    "label": "power",
+    "description": "Horses running",
+    "signifier": "horse",
+    "relation_type": "HasProperty"
+  },
+  "1/118221.jpg": {
+    "region": [
+      25.0,
+      114.0,
+      238.0,
+      365.0
+    ],
+    "label": "power",
+    "description": "Engine",
+    "signifier": "engine",
+    "relation_type": "HasProperty"
+  },
+  "1/14681.jpg": {
+    "region": [
+      401.0,
+      95.0,
+      219.0,
+      228.0
+    ],
+    "label": "power",
+    "description": "Hitler",
+    "signifier": "Hitler",
+    "relation_type": "HasProperty"
+  },
+  "7/62897.jpg": {
+    "region": [
+      14.0,
+      22.0,
+      198.0,
+      302.0
+    ],
+    "label": "power",
+    "description": "A car",
+    "signifier": "car",
+    "relation_type": "HasProperty"
+  },
+  "10/170571.png": {
+    "region": [
+      88.0,
+      89.0,
+      430.0,
+      324.0
+    ],
+    "label": "power",
+    "description": "A wrecking ball bursting from a can of soda",
+    "signifier": "ball",
+    "relation_type": "indirect"
+  },
+  "10/170612.png": {
+    "region": [
+      174.77999877929688,
+      459.39990234375,
+      181.4399871826172,
+      461.31005859375
+    ],
+    "label": "power",
+    "description": "Elves firing peanut butter at a donut",
+    "signifier": "elf",
+    "relation_type": "HasProperty"
+  },
+  "0/110170.jpg": {
+    "region": [
+      425.0,
+      342.0,
+      135.0,
+      81.0
+    ],
+    "label": "power",
+    "description": "A cartoon rabbit galloping",
+    "signifier": "galloping",
+    "relation_type": "others"
+  },
+  "0/108550.jpg": {
+    "region": [
+      42.0,
+      42.0,
+      316.0,
+      461.0
+    ],
+    "label": "power",
+    "description": "Word art shaped like the power button",
+    "signifier": "button",
+    "relation_type": "indirect"
+  },
+  "10/170334.png": {
+    "region": [
+      24.0,
+      40.0,
+      457.0,
+      390.0
+    ],
+    "label": "hot",
+    "description": "Steam from food",
+    "signifier": "steam",
+    "relation_type": "others"
+  },
+  "10/171847.png": {
+    "region": [
+      74.0,
+      404.0,
+      171.0,
+      358.0
+    ],
+    "label": "hot",
+    "description": "Chili pepper",
+    "signifier": "chili pepper",
+    "relation_type": "HasProperty"
+  },
+  "10/170587.png": {
+    "region": [
+      176.0,
+      489.779296875,
+      17.0,
+      12.779296875
+    ],
+    "label": "hot",
+    "description": "Caveman hitting two rocks together",
+    "signifier": "caveman",
+    "relation_type": "indirect"
+  },
+  "10/177335.png": {
+    "region": [
+      325.0,
+      198.0,
+      6.0,
+      8.0
+    ],
+    "label": "hot",
+    "description": "Explosion",
+    "signifier": "explosion",
+    "relation_type": "others"
+  },
+  "8/115958.jpg": {
+    "region": [
+      427.0,
+      144.0,
+      36.0,
+      455.0
+    ],
+    "label": "hot",
+    "description": "A melting tray",
+    "signifier": "melting",
+    "relation_type": "others"
+  },
+  "3/105323.jpg": {
+    "region": [
+      37.0,
+      89.0,
+      252.0,
+      331.0
+    ],
+    "label": "hot",
+    "description": "Fried eggs in the shape of a footprint",
+    "signifier": "footprint",
+    "relation_type": "indirect"
+  },
+  "10/171931.png": {
+    "region": [
+      50.0,
+      415.0,
+      142.0,
+      241.0
+    ],
+    "label": "hot",
+    "description": "Melted headphone",
+    "signifier": "melted",
+    "relation_type": "others"
+  },
+  "8/119158.jpg": {
+    "region": [
+      21.0,
+      170.0,
+      479.0,
+      307.0
+    ],
+    "label": "hot",
+    "description": "A row of safety cones made to look like teeth",
+    "signifier": "safety cones",
+    "relation_type": "indirect"
+  },
+  "10/170923.png": {
+    "region": [
+      78.0,
+      126.0,
+      428.0,
+      484.0
+    ],
+    "label": "hot",
+    "description": "Burger on flame",
+    "signifier": "flame",
+    "relation_type": "HasProperty"
+  },
+  "5/23975.jpg": {
+    "region": [
+      308.0,
+      286.0,
+      477.0,
+      500.0
+    ],
+    "label": "hot",
+    "description": "Cheetos made to look like a lit match",
+    "signifier": "lit match",
+    "relation_type": "HasProperty"
+  },
+  "3/61653.jpg": {
+    "region": [
+      49.0,
+      151.0,
+      479.0,
+      492.0
+    ],
+    "label": "delicious",
+    "description": "Text",
+    "signifier": "text",
+    "relation_type": "indirect"
+  },
+  "10/171652.png": {
+    "region": [
+      328.0,
+      163.0,
+      207.0,
+      115.0
+    ],
+    "label": "delicious",
+    "description": "Ice-cream",
+    "signifier": "ice-cream",
+    "relation_type": "HasProperty"
+  },
+  "1/119911.jpg": {
+    "region": [
+      69.0,
+      72.0,
+      410.0,
+      325.0
+    ],
+    "label": "delicious",
+    "description": "Potato chips in the shape of a heart",
+    "signifier": "potato chips",
+    "relation_type": "HasProperty"
+  },
+  "9/6929.jpg": {
+    "region": [
+      60.0,
+      350.0,
+      419.0,
+      42.0
+    ],
+    "label": "delicious",
+    "description": "Steak cooking",
+    "signifier": "steak",
+    "relation_type": "HasProperty"
+  },
+  "9/116839.jpg": {
+    "region": [
+      59.0,
+      46.0,
+      274.0,
+      191.0
+    ],
+    "label": "delicious",
+    "description": "Pizza like a flower petal",
+    "signifier": "pizza",
+    "relation_type": "HasProperty"
+  },
+  "10/170953.png": {
+    "region": [
+      197.0,
+      170.0,
+      345.0,
+      324.0
+    ],
+    "label": "delicious",
+    "description": "Milk in the shape of ice-cream",
+    "signifier": "ice-cream",
+    "relation_type": "HasProperty"
+  },
+  "10/170685.png": {
+    "region": [
+      116.0,
+      169.0,
+      194.0,
+      235.0
+    ],
+    "label": "delicious",
+    "description": "Licking lips",
+    "signifier": "licking",
+    "relation_type": "RelatedTo"
+  },
+  "10/177458.png": {
+    "region": [
+      103.0,
+      282.0,
+      233.0,
+      378.0
+    ],
+    "label": "delicious",
+    "description": "Candy on someone's belly",
+    "signifier": "candy",
+    "relation_type": "HasProperty"
+  },
+  "0/54140.jpg": {
+    "region": [
+      186.0,
+      94.0,
+      435.0,
+      286.0
+    ],
+    "label": "delicious",
+    "description": "Strawberry in the shape of a tongue licking lips",
+    "signifier": "licking",
+    "relation_type": "RelatedTo"
+  },
+  "3/42463.jpg": {
+    "region": [
+      120.0,
+      50.0,
+      395.0,
+      408.0
+    ],
+    "label": "delicious",
+    "description": "Potato chips in a bag",
+    "signifier": "potato chips",
+    "relation_type": "HasProperty"
+  },
+  "10/177890.png": {
+    "region": [
+      2.0,
+      0.0,
+      188.0,
+      491.0
+    ],
+    "label": "relaxation",
+    "description": "Golf sticks in a bag",
+    "signifier": "golf stick",
+    "relation_type": "UsedFor"
+  },
+  "8/158728.jpg": {
+    "region": [
+      97.0,
+      27.0,
+      394.0,
+      423.0
+    ],
+    "label": "relaxation",
+    "description": "Mud bath over vodka bottle",
+    "signifier": "mud bath",
+    "relation_type": "UsedFor"
+  },
+  "10/175629.png": {
+    "region": [
+      3.0,
+      268.0,
+      494.0,
+      497.0
+    ],
+    "label": "relaxation",
+    "description": "Cocktails",
+    "signifier": "cocktail",
+    "relation_type": "UsedFor"
+  },
+  "10/170855.png": {
+    "region": [
+      45.0,
+      160.0,
+      460.0,
+      282.0
+    ],
+    "label": "relaxation",
+    "description": "Bare feet floating over water at a beach",
+    "signifier": "beach",
+    "relation_type": "UsedFor"
+  },
+  "10/170832.png": {
+    "region": [
+      286.0,
+      385.0,
+      47.0,
+      134.0
+    ],
+    "label": "relaxation",
+    "description": "Chairs on beach",
+    "signifier": "beach chair",
+    "relation_type": "HasProperty"
+  },
+  "10/170550.png": {
+    "region": [
+      302.0,
+      28.0,
+      454.0,
+      284.0
+    ],
+    "label": "relaxation",
+    "description": "Woman sun-tanning",
+    "signifier": "sun-tanning",
+    "relation_type": "RelatedTo"
+  },
+  "0/152320.jpg": {
+    "region": [
+      355.0,
+      357.0,
+      482.0,
+      458.0
+    ],
+    "label": "relaxation",
+    "description": "Candy in the form of pause sign",
+    "signifier": "pause sign",
+    "relation_type": "others"
+  },
+  "7/67847.jpg": {
+    "region": [
+      57.0,
+      13.0,
+      446.0,
+      276.0
+    ],
+    "label": "relaxation",
+    "description": "Smiling and calm face",
+    "signifier": "smiling",
+    "relation_type": "others"
+  },
+  "3/82793.jpg": {
+    "region": [
+      128.0,
+      19.0,
+      377.0,
+      406.0
+    ],
+    "label": "relaxation",
+    "description": "Candy in the form of bowling pins",
+    "signifier": "bowling pin",
+    "relation_type": "UsedFor"
+  },
+  "9/38239.jpg": {
+    "region": [
+      165.0,
+      107.0,
+      421.0,
+      471.0
+    ],
+    "label": "relaxation",
+    "description": "Stacked stones",
+    "signifier": "stone",
+    "relation_type": "indirect"
+  },
+  "5/68475.jpg": {
+    "region": [
+      27.0,
+      2.0,
+      253.0,
+      285.0
+    ],
+    "label": "protection",
+    "description": "Helmet over toe",
+    "signifier": "helmet",
+    "relation_type": "UsedFor"
+  },
+  "0/107590.jpg": {
+    "region": [
+      95.0,
+      8.0,
+      365.0,
+      447.0
+    ],
+    "label": "protection",
+    "description": "Water pouring over car",
+    "signifier": "pouring",
+    "relation_type": "indirect"
+  },
+  "4/136504.jpg": {
+    "region": [
+      47.66999816894531,
+      234.02001953125,
+      487.66998291015625,
+      381.7998046875
+    ],
+    "label": "protection",
+    "description": "Shoe squished between belly fat",
+    "signifier": "shoe",
+    "relation_type": "HasProperty"
+  },
+  "7/66367.jpg": {
+    "region": [
+      187.0,
+      140.0,
+      305.0,
+      374.0
+    ],
+    "label": "protection",
+    "description": "Meat on lollipop stick",
+    "signifier": "meat",
+    "relation_type": "indirect"
+  },
+  "10/172191.png": {
+    "region": [
+      64.0,
+      168.0,
+      432.0,
+      274.0
+    ],
+    "label": "protection",
+    "description": "Wrapper over burrito",
+    "signifier": "wrapper",
+    "relation_type": "indirect"
+  },
+  "5/131685.jpg": {
+    "region": [
+      17.0,
+      179.0,
+      343.0,
+      482.0
+    ],
+    "label": "protection",
+    "description": "Piggy bank",
+    "signifier": "bank",
+    "relation_type": "indirect"
+  },
+  "0/149020.jpg": {
+    "region": [
+      3.0,
+      5.0,
+      491.0,
+      384.0
+    ],
+    "label": "protection",
+    "description": "Missile attacking vagina",
+    "signifier": "missile",
+    "relation_type": "RelatedTo"
+  },
+  "10/170241.png": {
+    "region": [
+      173.0,
+      57.0,
+      227.0,
+      92.0
+    ],
+    "label": "protection",
+    "description": "Helmet",
+    "signifier": "helmet",
+    "relation_type": "UsedFor"
+  },
+  "7/52457.jpg": {
+    "region": [
+      354.0,
+      353.0,
+      168.0,
+      150.0
+    ],
+    "label": "protection",
+    "description": "Rocks in a bag",
+    "signifier": "rock",
+    "relation_type": "indirect"
+  },
+  "7/2447.jpg": {
+    "region": [
+      62.0,
+      109.0,
+      237.0,
+      404.0
+    ],
+    "label": "protection",
+    "description": "Couple covered by condom",
+    "signifier": "condom",
+    "relation_type": "UsedFor"
+  },
+  "2/136852.jpg": {
+    "region": [
+      400.0,
+      106.0,
+      95.0,
+      358.0
+    ],
+    "label": "technology",
+    "description": "Fries in shape of wifi signal",
+    "signifier": "wifi signal",
+    "relation_type": "others"
+  },
+  "8/128928.jpg": {
+    "region": [
+      52.0,
+      159.0,
+      476.0,
+      475.0
+    ],
+    "label": "technology",
+    "description": "Walking path suggested by mobile device",
+    "signifier": "mobile device",
+    "relation_type": "others"
+  },
+  "1/85911.jpg": {
+    "region": [
+      44.0,
+      88.0,
+      461.0,
+      404.0
+    ],
+    "label": "technology",
+    "description": "Mobile device screen",
+    "signifier": "screen",
+    "relation_type": "others"
+  },
+  "8/155788.jpg": {
+    "region": [
+      37.0,
+      71.0,
+      425.0,
+      399.0
+    ],
+    "label": "technology",
+    "description": "Temperature measurement in the ocean",
+    "signifier": "measurement",
+    "relation_type": "RelatedTo"
+  },
+  "2/47572.jpg": {
+    "region": [
+      3.0,
+      10.0,
+      494.0,
+      404.0
+    ],
+    "label": "technology",
+    "description": "Electronic devices",
+    "signifier": "electronic device",
+    "relation_type": "others"
+  },
+  "0/129200.jpg": {
+    "region": [
+      131.0,
+      200.0,
+      381.0,
+      376.0
+    ],
+    "label": "technology",
+    "description": "Robot hands made of cell phones",
+    "signifier": "robot",
+    "relation_type": "others"
+  },
+  "10/177718.png": {
+    "region": [
+      5.0,
+      138.0,
+      487.0,
+      304.0
+    ],
+    "label": "technology",
+    "description": "Mars rover and ATM",
+    "signifier": "ATM",
+    "relation_type": "others"
+  },
+  "10/170873.png": {
+    "region": [
+      271.0,
+      276.0,
+      421.0,
+      436.0
+    ],
+    "label": "technology",
+    "description": "Map",
+    "signifier": "map",
+    "relation_type": "others"
+  },
+  "8/11788.jpg": {
+    "region": [
+      66.0,
+      164.0,
+      255.0,
+      398.0
+    ],
+    "label": "technology",
+    "description": "Camera",
+    "signifier": "camera",
+    "relation_type": "others"
+  },
+  "9/70919.jpg": {
+    "region": [
+      462.0,
+      147.0,
+      70.0,
+      462.0
+    ],
+    "label": "technology",
+    "description": "Hand with printed text",
+    "signifier": "hand",
+    "relation_type": "indirect"
+  },
+  "10/171000.png": {
+    "region": [
+      336.0,
+      225.0,
+      43.0,
+      119.0
+    ],
+    "label": "beauty",
+    "description": "Woman's eyes with emphasized eyelashes",
+    "signifier": "eyelashes",
+    "relation_type": "UsedFor"
+  },
+  "2/116182.jpg": {
+    "region": [
+      81.0,
+      43.0,
+      471.0,
+      478.0
+    ],
+    "label": "beauty",
+    "description": "Woman with revealing dress",
+    "signifier": "dress",
+    "relation_type": "HasProperty"
+  },
+  "10/172454.png": {
+    "region": [
+      168.0,
+      33.0,
+      496.0,
+      380.0
+    ],
+    "label": "beauty",
+    "description": "Woman with lipstick",
+    "signifier": "lipstick",
+    "relation_type": "UsedFor"
+  },
+  "10/171335.png": {
+    "region": [
+      71.0,
+      16.0,
+      425.0,
+      500.0
+    ],
+    "label": "beauty",
+    "description": "Woman with curly glossy hair",
+    "signifier": "glossy hair",
+    "relation_type": "HasProperty"
+  },
+  "10/172128.png": {
+    "region": [
+      27.0,
+      67.0,
+      451.0,
+      425.0
+    ],
+    "label": "beauty",
+    "description": "Woman in a makeup kit mirror",
+    "signifier": "makeup",
+    "relation_type": "UsedFor"
+  },
+  "10/171924.png": {
+    "region": [
+      37.0,
+      100.0,
+      340.0,
+      201.0
+    ],
+    "label": "beauty",
+    "description": "Woman's eyes with make-up",
+    "signifier": "makeup",
+    "relation_type": "UsedFor"
+  },
+  "10/171337.png": {
+    "region": [
+      252.0,
+      65.0,
+      468.0,
+      262.0
+    ],
+    "label": "beauty",
+    "description": "Woman with make-up",
+    "signifier": "makeup",
+    "relation_type": "UsedFor"
+  },
+  "3/79383.jpg": {
+    "region": [
+      28.0,
+      64.0,
+      203.0,
+      412.0
+    ],
+    "label": "beauty",
+    "description": "Statue of woman",
+    "signifier": "statue",
+    "relation_type": "HasProperty"
+  },
+  "10/175689.png": {
+    "region": [
+      3.0,
+      12.0,
+      251.0,
+      497.0
+    ],
+    "label": "beauty",
+    "description": "Woman sitting on sand",
+    "signifier": "woman",
+    "relation_type": "HasProperty"
+  },
+  "10/171456.png": {
+    "region": [
+      189.0,
+      8.0,
+      497.0,
+      393.0
+    ],
+    "label": "beauty",
+    "description": "Eyelash mascara",
+    "signifier": "eyelash mascara",
+    "relation_type": "UsedFor"
+  },
+  "7/31897.jpg": {
+    "region": [
+      141.0,
+      195.0,
+      438.0,
+      486.0
+    ],
+    "label": "sports",
+    "description": "Man dribbling basketball",
+    "signifier": "basketball",
+    "relation_type": "others"
+  },
+  "10/170663.png": {
+    "region": [
+      230.0,
+      280.0,
+      500.0,
+      491.0
+    ],
+    "label": "sports",
+    "description": "Tokens of sports league teams",
+    "signifier": "league team",
+    "relation_type": "RelatedTo"
+  },
+  "7/111047.jpg": {
+    "region": [
+      72.57999420166016,
+      66.529296875,
+      411.5299987792969,
+      362.3193359375
+    ],
+    "label": "sports",
+    "description": "Game theatre",
+    "signifier": "game theatre",
+    "relation_type": "UsedFor"
+  },
+  "1/163451.jpg": {
+    "region": [
+      304.0,
+      217.0,
+      487.0,
+      495.0
+    ],
+    "label": "sports",
+    "description": "Nutrition diet food",
+    "signifier": "food",
+    "relation_type": "indirect"
+  },
+  "1/156691.jpg": {
+    "region": [
+      110.0,
+      44.0,
+      480.0,
+      376.0
+    ],
+    "label": "sports",
+    "description": "Pingpong on racket",
+    "signifier": "ping-pong",
+    "relation_type": "others"
+  },
+  "10/172204.png": {
+    "region": [
+      411.0,
+      331.0,
+      100.0,
+      254.0
+    ],
+    "label": "sports",
+    "description": "Burritos packed like a football",
+    "signifier": "football",
+    "relation_type": "others"
+  },
+  "10/175747.png": {
+    "region": [
+      178.0,
+      34.0,
+      336.0,
+      123.0
+    ],
+    "label": "sports",
+    "description": "Spinning basketball",
+    "signifier": "basketball",
+    "relation_type": "others"
+  },
+  "4/33344.jpg": {
+    "region": [
+      292.0,
+      405.0,
+      1.0,
+      89.0
+    ],
+    "label": "sports",
+    "description": "Crew of baseball players",
+    "signifier": "baseball player",
+    "relation_type": "RelatedTo"
+  },
+  "1/97551.jpg": {
+    "region": [
+      58.0,
+      18.0,
+      405.0,
+      467.0
+    ],
+    "label": "sports",
+    "description": "A man holding a football with milk on lips",
+    "signifier": "football",
+    "relation_type": "others"
+  },
+  "4/57694.jpg": {
+    "region": [
+      5.0,
+      41.0,
+      468.0,
+      353.0
+    ],
+    "label": "sports",
+    "description": "Football game confrontation",
+    "signifier": "football",
+    "relation_type": "others"
+  },
+  "10/172667.png": {
+    "region": [
+      367.0,
+      21.0,
+      498.0,
+      330.0
+    ],
+    "label": "happiness",
+    "description": "Smiling woman",
+    "signifier": "smiling",
+    "relation_type": "others"
+  },
+  "10/174275.png": {
+    "region": [
+      144.0,
+      200.0,
+      333.0,
+      294.0
+    ],
+    "label": "happiness",
+    "description": "A bitten cookie looks like a smile",
+    "signifier": "smile",
+    "relation_type": "others"
+  },
+  "10/172176.png": {
+    "region": [
+      319.0,
+      435.0,
+      173.0,
+      315.0
+    ],
+    "label": "happiness",
+    "description": "Ketchup with a smiling track",
+    "signifier": "smiling",
+    "relation_type": "others"
+  },
+  "10/170340.png": {
+    "region": [
+      150.0,
+      393.0,
+      21.0,
+      263.0
+    ],
+    "label": "happiness",
+    "description": "Smiling girl holding a sandwich",
+    "signifier": "smiling",
+    "relation_type": "others"
+  },
+  "0/129990.jpg": {
+    "region": [
+      215.0,
+      390.0,
+      41.0,
+      285.0
+    ],
+    "label": "happiness",
+    "description": "A trade-mark",
+    "signifier": "trade-mark",
+    "relation_type": "indirect"
+  },
+  "10/171639.png": {
+    "region": [
+      73.0,
+      137.0,
+      246.0,
+      298.0
+    ],
+    "label": "happiness",
+    "description": "A symbol looks like a smile",
+    "signifier": "smile",
+    "relation_type": "others"
+  },
+  "3/67993.jpg": {
+    "region": [
+      96.0,
+      280.0,
+      429.0,
+      411.0
+    ],
+    "label": "happiness",
+    "description": "Cropped figure depicts a smile",
+    "signifier": "smile",
+    "relation_type": "others"
+  },
+  "10/173154.png": {
+    "region": [
+      131.0,
+      0.0,
+      439.0,
+      497.0
+    ],
+    "label": "happiness",
+    "description": "Smiling women",
+    "signifier": "smiling",
+    "relation_type": "others"
+  },
+  "10/172804.png": {
+    "region": [
+      340.0,
+      184.0,
+      447.0,
+      334.0
+    ],
+    "label": "happiness",
+    "description": "Smiling monk",
+    "signifier": "smiling",
+    "relation_type": "others"
+  },
+  "3/19283.jpg": {
+    "region": [
+      80.0,
+      118.0,
+      3.0,
+      379.0
+    ],
+    "label": "happiness",
+    "description": "Multi-layer cupcake",
+    "signifier": "cupcake",
+    "relation_type": "others"
+  },
+  "9/10129.jpg": {
+    "region": [
+      70.0,
+      43.0,
+      131.0,
+      150.0
+    ],
+    "label": "alcohol",
+    "description": "Lighthouse",
+    "signifier": "lighthouse",
+    "relation_type": "indirect"
+  },
+  "5/7615.jpg": {
+    "region": [
+      102.0,
+      21.0,
+      425.0,
+      414.0
+    ],
+    "label": "alcohol",
+    "description": "Basketball yard looks like a bottle of wine",
+    "signifier": "wine bottle",
+    "relation_type": "UsedFor"
+  },
+  "0/90820.jpg": {
+    "region": [
+      325.0,
+      205.0,
+      378.0,
+      342.0
+    ],
+    "label": "alcohol",
+    "description": "Beer in a cup",
+    "signifier": "beer",
+    "relation_type": "others"
+  },
+  "9/9909.jpg": {
+    "region": [
+      38.0,
+      147.0,
+      470.0,
+      442.0
+    ],
+    "label": "alcohol",
+    "description": "Beer in shot glasses",
+    "signifier": "beer",
+    "relation_type": "others"
+  },
+  "10/174226.png": {
+    "region": [
+      114.0,
+      205.0,
+      373.0,
+      413.0
+    ],
+    "label": "alcohol",
+    "description": "Cup with a question mark on it",
+    "signifier": "cup",
+    "relation_type": "indirect"
+  },
+  "1/165071.jpg": {
+    "region": [
+      260.0,
+      37.0,
+      409.0,
+      281.0
+    ],
+    "label": "alcohol",
+    "description": "A bottle of wine",
+    "signifier": "wine bottle",
+    "relation_type": "UsedFor"
+  },
+  "6/12226.jpg": {
+    "region": [
+      394.0,
+      435.0,
+      96.0,
+      16.0
+    ],
+    "label": "alcohol",
+    "description": "A bottle of vodka with something in it",
+    "signifier": "wine bottle",
+    "relation_type": "UsedFor"
+  },
+  "10/170540.png": {
+    "region": [
+      388.0,
+      164.0,
+      491.0,
+      465.0
+    ],
+    "label": "alcohol",
+    "description": "A glass of beer",
+    "signifier": "beer",
+    "relation_type": "others"
+  },
+  "0/10000.jpg": {
+    "region": [
+      70.0,
+      81.0,
+      417.0,
+      425.0
+    ],
+    "label": "alcohol",
+    "description": "Ice cubes look like a glass of beer",
+    "signifier": "beer",
+    "relation_type": "others"
+  },
+  "6/13436.jpg": {
+    "region": [
+      399.0,
+      432.0,
+      77.0,
+      9.0
+    ],
+    "label": "alcohol",
+    "description": "Berry in a basket with a shape of bottle",
+    "signifier": "bottle",
+    "relation_type": "UsedFor"
+  },
+  "3/158783.jpg": {
+    "region": [
+      47.0,
+      24.0,
+      427.0,
+      362.0
+    ],
+    "label": "sexy",
+    "description": "Man licking letter",
+    "signifier": "licking",
+    "relation_type": "RelatedTo"
+  },
+  "2/2772.jpg": {
+    "region": [
+      5.0,
+      7.0,
+      288.0,
+      494.0
+    ],
+    "label": "sexy",
+    "description": "Woman in revealing wearing",
+    "signifier": "revealing",
+    "relation_type": "others"
+  },
+  "0/116550.jpg": {
+    "region": [
+      283.0,
+      103.0,
+      453.0,
+      328.0
+    ],
+    "label": "sexy",
+    "description": "Nude woman body",
+    "signifier": "nude",
+    "relation_type": "others"
+  },
+  "10/172964.png": {
+    "region": [
+      213.0,
+      9.0,
+      440.0,
+      500.0
+    ],
+    "label": "sexy",
+    "description": "Woman wearing only underwear",
+    "signifier": "underwear",
+    "relation_type": "UsedFor"
+  },
+  "10/173005.png": {
+    "region": [
+      158.0,
+      4.0,
+      489.0,
+      457.0
+    ],
+    "label": "sexy",
+    "description": "Man wearing only underwear",
+    "signifier": "underwear",
+    "relation_type": "UsedFor"
+  },
+  "1/42611.jpg": {
+    "region": [
+      9.0,
+      97.8193359375,
+      481.0,
+      469.8193359375
+    ],
+    "label": "sexy",
+    "description": "Woman wearing only underwear",
+    "signifier": "underwear",
+    "relation_type": "UsedFor"
+  },
+  "5/97735.jpg": {
+    "region": [
+      426.0,
+      475.0,
+      40.0,
+      10.0
+    ],
+    "label": "sexy",
+    "description": "Woman in revealing wearing",
+    "signifier": "revealing",
+    "relation_type": "others"
+  },
+  "10/171849.png": {
+    "region": [
+      459.0,
+      355.0,
+      32.0,
+      26.0
+    ],
+    "label": "sexy",
+    "description": "Hamburger",
+    "signifier": "hamburger",
+    "relation_type": "indirect"
+  },
+  "4/99964.jpg": {
+    "region": [
+      406.0,
+      169.0,
+      500.0,
+      316.0
+    ],
+    "label": "sexy",
+    "description": "A piece of underwear",
+    "signifier": "underwear",
+    "relation_type": "UsedFor"
+  },
+  "2/36292.jpg": {
+    "region": [
+      91.0,
+      180.0,
+      335.0,
+      389.0
+    ],
+    "label": "sexy",
+    "description": "Glass of milk with woman legs",
+    "signifier": "woman leg",
+    "relation_type": "HasProperty"
+  },
+  "10/176623.png": {
+    "region": [
+      146.0,
+      118.0,
+      360.0,
+      320.0
+    ],
+    "label": "cruelty",
+    "description": "Dog laying in a crew of red things like blood",
+    "signifier": "blood",
+    "relation_type": "others"
+  },
+  "10/177992.png": {
+    "region": [
+      213.0,
+      6.0,
+      374.0,
+      316.0
+    ],
+    "label": "cruelty",
+    "description": "A skinned animal",
+    "signifier": "skinned",
+    "relation_type": "others"
+  },
+  "6/116386.jpg": {
+    "region": [
+      50.0,
+      327.0,
+      482.0,
+      487.0
+    ],
+    "label": "cruelty",
+    "description": "A bear under skinning",
+    "signifier": "skinning",
+    "relation_type": "others"
+  },
+  "10/177941.png": {
+    "region": [
+      455.0,
+      402.0,
+      15.0,
+      7.0
+    ],
+    "label": "cruelty",
+    "description": "Naked woman with tattoo",
+    "signifier": "tattoo",
+    "relation_type": "indirect"
+  },
+  "10/177608.png": {
+    "region": [
+      440.0,
+      417.0,
+      171.0,
+      185.0
+    ],
+    "label": "cruelty",
+    "description": "Fur coat",
+    "signifier": "fur coat",
+    "relation_type": "indirect"
+  },
+  "10/177938.png": {
+    "region": [
+      21.0,
+      103.0,
+      478.0,
+      403.0
+    ],
+    "label": "cruelty",
+    "description": "A naked woman holding an injured lamb",
+    "signifier": "injured",
+    "relation_type": "others"
+  },
+  "2/116452.jpg": {
+    "region": [
+      197.0,
+      133.0,
+      309.0,
+      291.0
+    ],
+    "label": "cruelty",
+    "description": "Horse fur pattern likes syringe",
+    "signifier": "horse fur",
+    "relation_type": "indirect"
+  },
+  "2/46142.jpg": {
+    "region": [
+      285.0,
+      484.0,
+      7.0,
+      22.0
+    ],
+    "label": "cruelty",
+    "description": "An ox staring at the camera",
+    "signifier": "ox",
+    "relation_type": "indirect"
+  },
+  "10/177099.png": {
+    "region": [
+      257.0,
+      130.0,
+      432.0,
+      461.0
+    ],
+    "label": "cruelty",
+    "description": "Dog used like a bottle of perfume",
+    "signifier": "dog",
+    "relation_type": "indirect"
+  },
+  "5/45795.jpg": {
+    "region": [
+      51.0,
+      5.0,
+      464.0,
+      439.0
+    ],
+    "label": "cruelty",
+    "description": "Tied dog",
+    "signifier": "tied",
+    "relation_type": "others"
+  },
+  "10/170630.png": {
+    "region": [
+      49.0,
+      262.0,
+      309.0,
+      429.0
+    ],
+    "label": "variety",
+    "description": "Plenty of frozen yogurt flavors",
+    "signifier": "plenty",
+    "relation_type": "others"
+  },
+  "10/173049.png": {
+    "region": [
+      12.0,
+      143.0,
+      489.0,
+      355.0
+    ],
+    "label": "variety",
+    "description": "Plenty of potato chips flavors",
+    "signifier": "plenty",
+    "relation_type": "others"
+  },
+  "4/53834.jpg": {
+    "region": [
+      65.0,
+      193.0,
+      474.0,
+      486.0
+    ],
+    "label": "variety",
+    "description": "Plenty of bottle sizes",
+    "signifier": "plenty",
+    "relation_type": "others"
+  },
+  "10/175695.png": {
+    "region": [
+      85.0,
+      87.0,
+      416.0,
+      282.0
+    ],
+    "label": "variety",
+    "description": "Bunch of children",
+    "signifier": "bunch",
+    "relation_type": "others"
+  },
+  "10/173028.png": {
+    "region": [
+      9.0,
+      24.0,
+      490.0,
+      347.0
+    ],
+    "label": "variety",
+    "description": "Two women with different choices of drinks",
+    "signifier": "choices",
+    "relation_type": "others"
+  },
+  "10/173106.png": {
+    "region": [
+      52.0,
+      57.0,
+      443.0,
+      322.0
+    ],
+    "label": "variety",
+    "description": "Plenty of chocolate flavors",
+    "signifier": "plenty",
+    "relation_type": "others"
+  },
+  "10/174542.png": {
+    "region": [
+      96.0,
+      132.0,
+      417.0,
+      479.0
+    ],
+    "label": "variety",
+    "description": "Two ice cream flavors",
+    "signifier": "two",
+    "relation_type": "RelatedTo"
+  },
+  "0/99190.jpg": {
+    "region": [
+      6.0,
+      28.0,
+      489.0,
+      470.0
+    ],
+    "label": "variety",
+    "description": "Two bottles of juice with different flavors",
+    "signifier": "different",
+    "relation_type": "RelatedTo"
+  },
+  "10/171709.png": {
+    "region": [
+      14.0,
+      72.0,
+      487.0,
+      496.0
+    ],
+    "label": "variety",
+    "description": "Plenty of doughnut flavors",
+    "signifier": "plenty",
+    "relation_type": "others"
+  },
+  "9/70519.jpg": {
+    "region": [
+      444.0,
+      41.0,
+      47.0,
+      332.0
+    ],
+    "label": "variety",
+    "description": "Bunch of symbols located in the cow",
+    "signifier": "bunch",
+    "relation_type": "others"
+  },
+  "5/13345.jpg": {
+    "region": [
+      97.0,
+      114.0,
+      208.0,
+      244.0
+    ],
+    "label": "excitement",
+    "description": "BMW wood shift knob in fire",
+    "signifier": "BMW",
+    "relation_type": "indirect"
+  },
+  "10/171289.png": {
+    "region": [
+      197.0,
+      313.0,
+      17.0,
+      160.0
+    ],
+    "label": "excitement",
+    "description": "Legs in the air",
+    "signifier": "leg",
+    "relation_type": "indirect"
+  },
+  "0/32730.jpg": {
+    "region": [
+      96.0,
+      187.0,
+      362.0,
+      389.0
+    ],
+    "label": "excitement",
+    "description": "Skiing",
+    "signifier": "ski",
+    "relation_type": "others"
+  },
+  "10/172945.png": {
+    "region": [
+      56.0,
+      57.0,
+      238.0,
+      359.0
+    ],
+    "label": "excitement",
+    "description": "A dancing man",
+    "signifier": "dancer",
+    "relation_type": "RelatedTo"
+  },
+  "6/149326.jpg": {
+    "region": [
+      20.200000762939453,
+      222.7197265625,
+      241.79998779296875,
+      385.1201171875
+    ],
+    "label": "excitement",
+    "description": "An open mouth",
+    "signifier": "mouth",
+    "relation_type": "indirect"
+  },
+  "1/101031.jpg": {
+    "region": [
+      236.0,
+      135.0,
+      337.0,
+      247.0
+    ],
+    "label": "excitement",
+    "description": "Opening a bottle with teeth",
+    "signifier": "bottle",
+    "relation_type": "indirect"
+  },
+  "10/173409.png": {
+    "region": [
+      175.0,
+      35.0,
+      467.0,
+      265.0
+    ],
+    "label": "excitement",
+    "description": "Excited girl looking at the cookies.",
+    "signifier": "girl",
+    "relation_type": "indirect"
+  },
+  "4/36654.jpg": {
+    "region": [
+      29.0,
+      7.0,
+      479.0,
+      275.0
+    ],
+    "label": "excitement",
+    "description": "Two men getting wet",
+    "signifier": "wet",
+    "relation_type": "indirect"
+  },
+  "10/170903.png": {
+    "region": [
+      0.0,
+      50.0,
+      500.0,
+      205.0
+    ],
+    "label": "excitement",
+    "description": "Group of people dancing",
+    "signifier": "dancing",
+    "relation_type": "RelatedTo"
+  },
+  "10/174670.png": {
+    "region": [
+      24.0,
+      15.0,
+      478.0,
+      484.0
+    ],
+    "label": "excitement",
+    "description": "A man wearing glass waiting to drink",
+    "signifier": "man",
+    "relation_type": "indirect"
+  },
+  "8/107528.jpg": {
+    "region": [
+      58.0,
+      145.0,
+      455.0,
+      364.0
+    ],
+    "label": "safety",
+    "description": "Group of people with same looks gathered in shape of car",
+    "signifier": "car",
+    "relation_type": "HasProperty"
+  },
+  "3/72583.jpg": {
+    "region": [
+      317.0,
+      164.0,
+      493.0,
+      407.0
+    ],
+    "label": "safety",
+    "description": "Bunch of eyes",
+    "signifier": "eye",
+    "relation_type": "indirect"
+  },
+  "0/160110.jpg": {
+    "region": [
+      422.0,
+      65.0,
+      77.0,
+      376.0
+    ],
+    "label": "safety",
+    "description": "A mother with her children in front of a car",
+    "signifier": "car",
+    "relation_type": "HasProperty"
+  },
+  "2/159142.jpg": {
+    "region": [
+      176.0,
+      98.0,
+      443.0,
+      341.0
+    ],
+    "label": "safety",
+    "description": "An injured boy and girl",
+    "signifier": "injured",
+    "relation_type": "indirect"
+  },
+  "8/5868.jpg": {
+    "region": [
+      134.0,
+      40.0,
+      382.0,
+      335.0
+    ],
+    "label": "safety",
+    "description": "A police waiting in front of a door",
+    "signifier": "police",
+    "relation_type": "UsedFor"
+  },
+  "1/118071.jpg": {
+    "region": [
+      63.0,
+      158.0,
+      335.0,
+      332.0
+    ],
+    "label": "safety",
+    "description": "A cup of drink pouring over a computer",
+    "signifier": "cup",
+    "relation_type": "indirect"
+  },
+  "10/172177.png": {
+    "region": [
+      79.0,
+      158.0,
+      266.0,
+      354.0
+    ],
+    "label": "safety",
+    "description": "A golden fish with helmet",
+    "signifier": "helmet",
+    "relation_type": "UsedFor"
+  },
+  "3/127373.jpg": {
+    "region": [
+      77.0,
+      59.0,
+      357.0,
+      371.0
+    ],
+    "label": "safety",
+    "description": "A man crossing the street",
+    "signifier": "crossing",
+    "relation_type": "UsedFor"
+  },
+  "8/70518.jpg": {
+    "region": [
+      240.0,
+      53.0,
+      481.0,
+      342.0
+    ],
+    "label": "safety",
+    "description": "Candies stored high",
+    "signifier": "stored",
+    "relation_type": "HasProperty"
+  },
+  "1/5341.jpg": {
+    "region": [
+      98.0,
+      7.0,
+      500.0,
+      243.0
+    ],
+    "label": "safety",
+    "description": "Rock climbing hook",
+    "signifier": "hook",
+    "relation_type": "UsedFor"
+  },
+  "10/174702.png": {
+    "region": [
+      116.0,
+      125.0,
+      363.0,
+      329.0
+    ],
+    "label": "injury",
+    "description": "A boy with eyepatch",
+    "signifier": "eyepatch",
+    "relation_type": "others"
+  },
+  "10/171042.png": {
+    "region": [
+      16.0,
+      47.0,
+      477.0,
+      288.0
+    ],
+    "label": "injury",
+    "description": "Key shape alphabet on skin showing word wound",
+    "signifier": "wound",
+    "relation_type": "others"
+  },
+  "8/70358.jpg": {
+    "region": [
+      81.0,
+      117.51953125,
+      412.1999816894531,
+      332.7197265625
+    ],
+    "label": "injury",
+    "description": "CT scan of knee",
+    "signifier": "CT scan",
+    "relation_type": "others"
+  },
+  "10/171370.png": {
+    "region": [
+      344.0,
+      188.0,
+      213.0,
+      55.0
+    ],
+    "label": "injury",
+    "description": "Part of head shown as balled paper",
+    "signifier": "head",
+    "relation_type": "indirect"
+  },
+  "2/127312.jpg": {
+    "region": [
+      216.0,
+      177.0,
+      493.0,
+      295.0
+    ],
+    "label": "injury",
+    "description": "Road coming out of scar",
+    "signifier": "scar",
+    "relation_type": "others"
+  },
+  "3/17973.jpg": {
+    "region": [
+      329.0,
+      279.0,
+      224.0,
+      347.0
+    ],
+    "label": "injury",
+    "description": "Scar on his stomach",
+    "signifier": "scar",
+    "relation_type": "others"
+  },
+  "10/171458.png": {
+    "region": [
+      138.0,
+      73.8193359375,
+      335.0,
+      233.8193359375
+    ],
+    "label": "injury",
+    "description": "Nose wound with bandages",
+    "signifier": "wound",
+    "relation_type": "others"
+  },
+  "2/127282.jpg": {
+    "region": [
+      112.0,
+      55.0,
+      412.0,
+      398.0
+    ],
+    "label": "injury",
+    "description": "Finger under the saw",
+    "signifier": "saw",
+    "relation_type": "UsedFor"
+  },
+  "7/159247.jpg": {
+    "region": [
+      48.0,
+      66.0,
+      460.0,
+      333.0
+    ],
+    "label": "injury",
+    "description": "Ax in his back",
+    "signifier": "ax",
+    "relation_type": "UsedFor"
+  },
+  "5/115725.jpg": {
+    "region": [
+      166.0,
+      132.0,
+      473.0,
+      448.0
+    ],
+    "label": "injury",
+    "description": "Wheelchair with pepsi logo",
+    "signifier": "wheelchair",
+    "relation_type": "UsedFor"
+  },
+  "3/77843.jpg": {
+    "region": [
+      115.0,
+      271.0,
+      479.0,
+      497.0
+    ],
+    "label": "desire",
+    "description": "Happy couple",
+    "signifier": "couple",
+    "relation_type": "RelatedTo"
+  },
+  "10/176439.png": {
+    "region": [
+      60.0,
+      106.0,
+      466.0,
+      331.0
+    ],
+    "label": "desire",
+    "description": "A happy man in the king costume",
+    "signifier": "man",
+    "relation_type": "indirect"
+  },
+  "3/103933.jpg": {
+    "region": [
+      106.0,
+      192.0,
+      396.0,
+      458.0
+    ],
+    "label": "desire",
+    "description": "Six pack",
+    "signifier": "pack",
+    "relation_type": "indirect"
+  },
+  "6/65996.jpg": {
+    "region": [
+      406.0,
+      180.0,
+      78.0,
+      472.0
+    ],
+    "label": "desire",
+    "description": "A woman looking at a shoe",
+    "signifier": "woman",
+    "relation_type": "others"
+  },
+  "3/94853.jpg": {
+    "region": [
+      419.0,
+      395.0,
+      47.0,
+      0.0
+    ],
+    "label": "desire",
+    "description": "A woman looking up",
+    "signifier": "woman",
+    "relation_type": "others"
+  },
+  "1/126861.jpg": {
+    "region": [
+      97.0,
+      21.0,
+      497.0,
+      434.0
+    ],
+    "label": "desire",
+    "description": "A cluster of naked girls surrounding a car",
+    "signifier": "naked",
+    "relation_type": "others"
+  },
+  "8/141728.jpg": {
+    "region": [
+      491.0,
+      11.0,
+      237.0,
+      383.0
+    ],
+    "label": "desire",
+    "description": "A wave in shape of an old man",
+    "signifier": "wave",
+    "relation_type": "indirect"
+  },
+  "10/176458.png": {
+    "region": [
+      138.0,
+      82.0,
+      377.0,
+      213.0
+    ],
+    "label": "desire",
+    "description": "A mouth with orange pulp on the teeth",
+    "signifier": "mouth",
+    "relation_type": "RelatedTo"
+  },
+  "4/43134.jpg": {
+    "region": [
+      64.0,
+      64.0,
+      426.0,
+      451.0
+    ],
+    "label": "desire",
+    "description": "A girl screaming",
+    "signifier": "screaming",
+    "relation_type": "others"
+  },
+  "10/177823.png": {
+    "region": [
+      347.0,
+      67.0,
+      491.0,
+      345.0
+    ],
+    "label": "desire",
+    "description": "A shadow of a woman",
+    "signifier": "woman shadow",
+    "relation_type": "indirect"
+  },
+  "3/86423.jpg": {
+    "region": [
+      25.0,
+      181.0,
+      453.0,
+      353.0
+    ],
+    "label": "hunger",
+    "description": "Potato cross view with crisp texture on surface",
+    "signifier": "potato",
+    "relation_type": "UsedFor"
+  },
+  "10/177299.png": {
+    "region": [
+      273.0,
+      248.0,
+      446.0,
+      489.0
+    ],
+    "label": "hunger",
+    "description": "Opened Kit-Kat chocolate bar facing escalator with open mouth painted",
+    "signifier": "open mouth",
+    "relation_type": "others"
+  },
+  "2/116672.jpg": {
+    "region": [
+      251.0,
+      307.0,
+      166.0,
+      353.0
+    ],
+    "label": "hunger",
+    "description": "Extra pepperoni written on receipt header",
+    "signifier": "pepperoni",
+    "relation_type": "UsedFor"
+  },
+  "7/152017.jpg": {
+    "region": [
+      87.0,
+      64.0,
+      370.0,
+      445.0
+    ],
+    "label": "hunger",
+    "description": "Twix chocolate bar with cape",
+    "signifier": "chocolate bar",
+    "relation_type": "UsedFor"
+  },
+  "4/96364.jpg": {
+    "region": [
+      65.0,
+      106.0,
+      388.0,
+      328.0
+    ],
+    "label": "hunger",
+    "description": "Man yawning and stretching in bed",
+    "signifier": "yawning",
+    "relation_type": "others"
+  },
+  "10/173527.png": {
+    "region": [
+      141.0,
+      313.0,
+      347.0,
+      488.0
+    ],
+    "label": "hunger",
+    "description": "Guacamole spilling out of a subway sandwich",
+    "signifier": "sandwich",
+    "relation_type": "UsedFor"
+  },
+  "10/172859.png": {
+    "region": [
+      68.0,
+      111.0,
+      256.0,
+      380.0
+    ],
+    "label": "hunger",
+    "description": "A child praying for a can of beans",
+    "signifier": "beans",
+    "relation_type": "UsedFor"
+  },
+  "2/135342.jpg": {
+    "region": [
+      199.0,
+      346.0,
+      316.0,
+      430.0
+    ],
+    "label": "hunger",
+    "description": "Cross view of snicker chocolate bar",
+    "signifier": "chocolate bar",
+    "relation_type": "UsedFor"
+  },
+  "9/18869.jpg": {
+    "region": [
+      61.0,
+      42.0,
+      480.0,
+      464.0
+    ],
+    "label": "hunger",
+    "description": "Big bad wolfs and three pigs eating burger together",
+    "signifier": "eating",
+    "relation_type": "others"
+  },
+  "9/18909.jpg": {
+    "region": [
+      276.0,
+      292.0,
+      497.0,
+      492.0
+    ],
+    "label": "hunger",
+    "description": "Hot chicken sandwich",
+    "signifier": "sandwich",
+    "relation_type": "UsedFor"
+  },
+  "4/39074.jpg": {
+    "region": [
+      39.0,
+      77.0,
+      452.0,
+      444.0
+    ],
+    "label": "vacation",
+    "description": "Attractive adults wearing fashionable clothes on the beach",
+    "signifier": "beach",
+    "relation_type": "UsedFor"
+  },
+  "3/149103.jpg": {
+    "region": [
+      134.0,
+      221.0,
+      500.0,
+      397.0
+    ],
+    "label": "vacation",
+    "description": "Words in the form of a boat on sand",
+    "signifier": "boat",
+    "relation_type": "UsedFor"
+  },
+  "10/172479.png": {
+    "region": [
+      173.0,
+      163.0,
+      492.0,
+      482.0
+    ],
+    "label": "vacation",
+    "description": "Lady with sun hat looking at boat",
+    "signifier": "boat",
+    "relation_type": "UsedFor"
+  },
+  "10/173013.png": {
+    "region": [
+      8.0,
+      51.0,
+      144.0,
+      260.0
+    ],
+    "label": "vacation",
+    "description": "A beach",
+    "signifier": "beach",
+    "relation_type": "UsedFor"
+  },
+  "3/34273.jpg": {
+    "region": [
+      94.0,
+      52.0,
+      393.0,
+      298.0
+    ],
+    "label": "vacation",
+    "description": "Pool rail into ocean",
+    "signifier": "pool",
+    "relation_type": "UsedFor"
+  },
+  "9/155239.jpg": {
+    "region": [
+      19.0,
+      129.0,
+      468.0,
+      354.0
+    ],
+    "label": "vacation",
+    "description": "Lady soaking in water-filled trunk of pickup truck",
+    "signifier": "trunk",
+    "relation_type": "UsedFor"
+  },
+  "10/173865.png": {
+    "region": [
+      30.0,
+      168.0,
+      227.0,
+      498.0
+    ],
+    "label": "vacation",
+    "description": "Soft white sand",
+    "signifier": "sand",
+    "relation_type": "others"
+  },
+  "7/35047.jpg": {
+    "region": [
+      60.0,
+      240.0,
+      465.0,
+      444.0
+    ],
+    "label": "vacation",
+    "description": "Man holding vacation destination in arms",
+    "signifier": "destination",
+    "relation_type": "RelatedTo"
+  },
+  "1/11181.jpg": {
+    "region": [
+      79.0,
+      44.0,
+      417.0,
+      393.0
+    ],
+    "label": "vacation",
+    "description": "Green island in the shape of a vodka bottle",
+    "signifier": "island",
+    "relation_type": "others"
+  },
+  "0/155430.jpg": {
+    "region": [
+      15.0,
+      28.0,
+      489.0,
+      238.0
+    ],
+    "label": "vacation",
+    "description": "Two parents taking picture of son on donkey",
+    "signifier": "picture",
+    "relation_type": "indirect"
+  },
+  "10/171241.png": {
+    "region": [
+      1.0,
+      0.0,
+      500.0,
+      500.0
+    ],
+    "label": "youth",
+    "description": "Fashionable young people posing together",
+    "signifier": "young",
+    "relation_type": "others"
+  },
+  "1/53961.jpg": {
+    "region": [
+      182.0,
+      33.0,
+      293.0,
+      323.0
+    ],
+    "label": "youth",
+    "description": "Woman with baby body print shirt holding basketball",
+    "signifier": "baby",
+    "relation_type": "HasProperty"
+  },
+  "4/53644.jpg": {
+    "region": [
+      22.0,
+      122.0,
+      271.0,
+      437.0
+    ],
+    "label": "youth",
+    "description": "Woman with baby body print shirt holding bottle",
+    "signifier": "baby",
+    "relation_type": "HasProperty"
+  },
+  "1/53881.jpg": {
+    "region": [
+      154.0,
+      24.0,
+      321.0,
+      372.0
+    ],
+    "label": "youth",
+    "description": "Person with baby body print shirt",
+    "signifier": "baby",
+    "relation_type": "HasProperty"
+  },
+  "10/171628.png": {
+    "region": [
+      20.0,
+      48.0,
+      457.0,
+      483.0
+    ],
+    "label": "youth",
+    "description": "Older woman on left side and her baby counterpart on right",
+    "signifier": "baby",
+    "relation_type": "HasProperty"
+  },
+  "10/170423.png": {
+    "region": [
+      316.0,
+      465.0,
+      165.0,
+      116.0
+    ],
+    "label": "youth",
+    "description": "Child with fashionable coat on her",
+    "signifier": "child",
+    "relation_type": "HasProperty"
+  },
+  "9/53639.jpg": {
+    "region": [
+      150.0,
+      65.0,
+      347.0,
+      426.0
+    ],
+    "label": "youth",
+    "description": "Musical notes in the form of a water bottle",
+    "signifier": "note",
+    "relation_type": "indirect"
+  },
+  "10/171044.png": {
+    "region": [
+      424.0,
+      476.0,
+      54.0,
+      0.0
+    ],
+    "label": "youth",
+    "description": "Long shiny legs on scorched earth",
+    "signifier": "leg",
+    "relation_type": "indirect"
+  },
+  "10/171634.png": {
+    "region": [
+      60.0,
+      56.0,
+      484.0,
+      296.0
+    ],
+    "label": "youth",
+    "description": "Young people smiling with a drink in their hands",
+    "signifier": "young",
+    "relation_type": "others"
+  },
+  "5/95265.jpg": {
+    "region": [
+      6.0,
+      279.0,
+      456.0,
+      489.0
+    ],
+    "label": "youth",
+    "description": "Sequence of progressively larger babies next to a jar",
+    "signifier": "baby",
+    "relation_type": "HasProperty"
+  },
+  "8/97538.jpg": {
+    "region": [
+      28.0,
+      88.0,
+      480.0,
+      370.0
+    ],
+    "label": "happy",
+    "description": "Smiling lady combined with chocolate equals house sold",
+    "signifier": "smiling",
+    "relation_type": "others"
+  },
+  "0/97830.jpg": {
+    "region": [
+      162.0800018310547,
+      157.76953125,
+      381.2799987792969,
+      280.9697265625
+    ],
+    "label": "happy",
+    "description": "Baseball with smiling face eating chocolate bar",
+    "signifier": "smiling",
+    "relation_type": "others"
+  },
+  "10/172446.png": {
+    "region": [
+      206.0,
+      341.0,
+      376.0,
+      423.0
+    ],
+    "label": "happy",
+    "description": "Smiling boy eating cookies",
+    "signifier": "smiling",
+    "relation_type": "others"
+  },
+  "7/139177.jpg": {
+    "region": [
+      463.0,
+      154.0,
+      51.0,
+      449.0
+    ],
+    "label": "happy",
+    "description": "Person inside a neatly decorate simulation",
+    "signifier": "decorate",
+    "relation_type": "others"
+  },
+  "9/12419.jpg": {
+    "region": [
+      27.0,
+      16.0,
+      218.0,
+      201.0
+    ],
+    "label": "happy",
+    "description": "Smiling woman leaning against chair",
+    "signifier": "smiling",
+    "relation_type": "others"
+  },
+  "7/149947.jpg": {
+    "region": [
+      113.0,
+      171.0,
+      387.0,
+      390.0
+    ],
+    "label": "happy",
+    "description": "Woman resting her face on her fists",
+    "signifier": "woman",
+    "relation_type": "indirect"
+  },
+  "3/80803.jpg": {
+    "region": [
+      7.0,
+      23.0,
+      328.0,
+      450.0
+    ],
+    "label": "happy",
+    "description": "Smiling face on cup",
+    "signifier": "smiling",
+    "relation_type": "others"
+  },
+  "3/34263.jpg": {
+    "region": [
+      93.0,
+      176.0,
+      436.0,
+      497.0
+    ],
+    "label": "happy",
+    "description": "Ocean water reflecting moon light",
+    "signifier": "ocean water",
+    "relation_type": "indirect"
+  },
+  "7/161097.jpg": {
+    "region": [
+      341.0,
+      25.0,
+      478.0,
+      215.0
+    ],
+    "label": "happy",
+    "description": "Smiling poker dealer",
+    "signifier": "smiling",
+    "relation_type": "others"
+  },
+  "10/171688.png": {
+    "region": [
+      161.0,
+      165.0,
+      292.0,
+      296.0
+    ],
+    "label": "happy",
+    "description": "Smiling girl on bike carrying tea box",
+    "signifier": "smiling",
+    "relation_type": "others"
+  },
+  "1/163741.jpg": {
+    "region": [
+      91.0,
+      130.0,
+      363.0,
+      365.0
+    ],
+    "label": "class",
+    "description": "Man with nice suit and ice coffee",
+    "signifier": "suit",
+    "relation_type": "HasProperty"
+  },
+  "1/9971.jpg": {
+    "region": [
+      359.0,
+      120.0,
+      137.0,
+      404.0
+    ],
+    "label": "class",
+    "description": "Glass with newspaper wrapped inside",
+    "signifier": "glass",
+    "relation_type": "indirect"
+  },
+  "3/65853.jpg": {
+    "region": [
+      39.0,
+      24.0,
+      465.0,
+      409.0
+    ],
+    "label": "class",
+    "description": "Men with button down shirts in front of clock",
+    "signifier": "shirt",
+    "relation_type": "RelatedTo"
+  },
+  "9/12769.jpg": {
+    "region": [
+      168.0,
+      112.0,
+      291.0,
+      349.0
+    ],
+    "label": "class",
+    "description": "Man's suit turns green and blue behind bottle glass",
+    "signifier": "suit",
+    "relation_type": "HasProperty"
+  },
+  "0/62900.jpg": {
+    "region": [
+      63.0,
+      138.0,
+      457.0,
+      385.0
+    ],
+    "label": "class",
+    "description": "Under the hood of the car is green",
+    "signifier": "car",
+    "relation_type": "HasProperty"
+  },
+  "3/107483.jpg": {
+    "region": [
+      205.0,
+      127.0,
+      308.0,
+      399.0
+    ],
+    "label": "class",
+    "description": "Man in black suit leaning against black car",
+    "signifier": "suit",
+    "relation_type": "HasProperty"
+  },
+  "2/163862.jpg": {
+    "region": [
+      15.0,
+      169.0,
+      217.0,
+      421.0
+    ],
+    "label": "class",
+    "description": "Clock made of wood",
+    "signifier": "clock",
+    "relation_type": "indirect"
+  },
+  "9/111059.jpg": {
+    "region": [
+      193.0,
+      108.0,
+      357.0,
+      263.0
+    ],
+    "label": "class",
+    "description": "Oreo with bow tie",
+    "signifier": "bow tie",
+    "relation_type": "UsedFor"
+  },
+  "10/172190.png": {
+    "region": [
+      86.0,
+      283.0,
+      260.0,
+      399.0
+    ],
+    "label": "class",
+    "description": "Black mug with red interior pouring out black coffee beans",
+    "signifier": "mug",
+    "relation_type": "indirect"
+  },
+  "0/10200.jpg": {
+    "region": [
+      136.0,
+      190.0,
+      463.0,
+      446.0
+    ],
+    "label": "class",
+    "description": "Woman with red striped shirt and gloves holding bottle",
+    "signifier": "shirt",
+    "relation_type": "RelatedTo"
+  },
+  "10/177817.png": {
+    "region": [
+      104.0,
+      193.0,
+      264.0,
+      344.0
+    ],
+    "label": "clean",
+    "description": "Baby in front of a dirty wall",
+    "signifier": "dirty",
+    "relation_type": "others"
+  },
+  "7/57017.jpg": {
+    "region": [
+      299.0,
+      381.0,
+      142.0,
+      294.0
+    ],
+    "label": "clean",
+    "description": "Man in a white shirt",
+    "signifier": "white",
+    "relation_type": "others"
+  },
+  "9/42969.jpg": {
+    "region": [
+      155.0,
+      124.0,
+      468.0,
+      284.0
+    ],
+    "label": "clean",
+    "description": "Bird holding a package",
+    "signifier": "bird",
+    "relation_type": "indirect"
+  },
+  "1/95691.jpg": {
+    "region": [
+      51.0,
+      208.0,
+      346.0,
+      500.0
+    ],
+    "label": "clean",
+    "description": "Deformed face",
+    "signifier": "face",
+    "relation_type": "HasProperty"
+  },
+  "5/1085.jpg": {
+    "region": [
+      70.0,
+      33.0,
+      465.0,
+      275.0
+    ],
+    "label": "clean",
+    "description": "Shower nozzle",
+    "signifier": "shower nozzle",
+    "relation_type": "UsedFor"
+  },
+  "1/33311.jpg": {
+    "region": [
+      51.0,
+      30.0,
+      434.0,
+      329.0
+    ],
+    "label": "clean",
+    "description": "Pure woman face",
+    "signifier": "pure",
+    "relation_type": "others"
+  },
+  "9/82429.jpg": {
+    "region": [
+      343.0,
+      411.0,
+      9.0,
+      90.0
+    ],
+    "label": "clean",
+    "description": "Combs and cream",
+    "signifier": "combs and cream",
+    "relation_type": "indirect"
+  },
+  "10/171650.png": {
+    "region": [
+      204.0,
+      397.0,
+      79.0,
+      252.0
+    ],
+    "label": "clean",
+    "description": "White spot on cheetah's coat",
+    "signifier": "white",
+    "relation_type": "others"
+  },
+  "9/105679.jpg": {
+    "region": [
+      125.0,
+      44.0,
+      403.0,
+      378.0
+    ],
+    "label": "clean",
+    "description": "Splashing shower nozzle",
+    "signifier": "shower nozzle",
+    "relation_type": "UsedFor"
+  },
+  "10/171710.png": {
+    "region": [
+      82.0,
+      84.4599609375,
+      231.0,
+      257.4599609375
+    ],
+    "label": "clean",
+    "description": "Lego toy",
+    "signifier": "Lego toy",
+    "relation_type": "indirect"
+  },
+  "10/173120.png": {
+    "region": [
+      0.0,
+      0.0,
+      500.0,
+      458.0
+    ],
+    "label": "family",
+    "description": "Three young men and an old man with a dog",
+    "signifier": "man and dog",
+    "relation_type": "others"
+  },
+  "1/164941.jpg": {
+    "region": [
+      0.0,
+      50.0,
+      461.0,
+      439.0
+    ],
+    "label": "family",
+    "description": "Cooking woman and a dog around a pool",
+    "signifier": "woman and dog",
+    "relation_type": "others"
+  },
+  "2/53632.jpg": {
+    "region": [
+      174.0,
+      234.0,
+      440.0,
+      449.0
+    ],
+    "label": "family",
+    "description": "Baby holding mom's breast",
+    "signifier": "baby and mom",
+    "relation_type": "others"
+  },
+  "10/170984.png": {
+    "region": [
+      5.0,
+      46.0,
+      480.0,
+      252.0
+    ],
+    "label": "family",
+    "description": "An old man and a kid fishing together",
+    "signifier": "man and kid",
+    "relation_type": "others"
+  },
+  "10/172290.png": {
+    "region": [
+      19.0,
+      54.0,
+      447.0,
+      269.0
+    ],
+    "label": "family",
+    "description": "Couples sitting under trees",
+    "signifier": "couple",
+    "relation_type": "others"
+  },
+  "6/110156.jpg": {
+    "region": [
+      114.0,
+      33.0,
+      188.0,
+      130.0
+    ],
+    "label": "family",
+    "description": "Woman holding a kid",
+    "signifier": "woman and kid",
+    "relation_type": "others"
+  },
+  "4/67394.jpg": {
+    "region": [
+      36.0,
+      76.0,
+      282.0,
+      205.0
+    ],
+    "label": "family",
+    "description": "Dinner table and plates",
+    "signifier": "dinner table",
+    "relation_type": "others"
+  },
+  "10/171976.png": {
+    "region": [
+      52.0,
+      53.0,
+      212.0,
+      443.0
+    ],
+    "label": "family",
+    "description": "Woman holding a kid",
+    "signifier": "woman and kid",
+    "relation_type": "others"
+  },
+  "0/120630.jpg": {
+    "region": [
+      135.0,
+      62.0,
+      453.0,
+      288.0
+    ],
+    "label": "family",
+    "description": "Smiling kid sitting under Christmas tree",
+    "signifier": "kid",
+    "relation_type": "others"
+  },
+  "10/173027.png": {
+    "region": [
+      73.0,
+      110.0,
+      468.0,
+      327.0
+    ],
+    "label": "family",
+    "description": "Kid grasping mom's shorts",
+    "signifier": "kid and mom",
+    "relation_type": "others"
+  }
+}
